@@ -1,16 +1,16 @@
 # colortools
 
-colortools is a Python command line tool
+colortools is a Python command line tool go generate lists of colors in formats like css, csv ...
 
 ## Documentation
 
-The documentation is available on the following [link]()
+The documentation is available on the following [link](https://fabquenneville.github.io/colortools/index.html)
 
 ## Releases
 
-Instalation instructions are found [here]().
-
 ## Usage
+
+Examples are available in the [manual](https://fabquenneville.github.io/colortools/usage/manual.html).
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
