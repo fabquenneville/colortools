@@ -16,30 +16,12 @@ def load_arguments():
         arguments: A dictionary of lists of the options passed by the user
     '''
     arguments = {
-        "directories":list(),
-        "files":list(),
-        "inputs":list(),
-        "filters":list(),
-        "outputs":list(),
-        "printop":list(),
+        "tasks":list(),
     }
 
     for arg in sys.argv:
-        # Confirm with the user that he selected to delete found files
-        if "-del" in arg:
-            exit()
-        elif "-in:" in arg:
-            arguments["inputs"] += arg[4:].split(",")
-        elif "-filters:" in arg:
-            arguments["filters"] += arg[9:].split(",")
-        elif "-out:" in arg:
-            arguments["outputs"] += arg[5:].split(",")
-        elif "-print:" in arg:
-            arguments["printop"] += arg[7:].split(",")
-        elif "-files:" in arg:
-            arguments["files"] += arg[7:].split(",,")
-        elif "-dirs:" in arg:
-            arguments["directories"] += arg[6:].split(",,")
+        if "-tasks:" in arg:
+            arguments["tasks"] += arg[7:].split(",")
 
     return arguments
 
@@ -128,9 +110,9 @@ def get_css_colors_webcolors():
     print(len(colors))
     return colors
 
-def get_css_colors():
+def get_css_colors_old():
     results = {}
-    with open('./misc/colors.csv', newline='') as csvfile:
+    with open('./misc/colors_old.csv') as csvfile:
         csvreader = csv.reader(csvfile)
         for row in csvreader:
             redhex = str(format(int(row[3]), 'x')).upper()
@@ -153,26 +135,25 @@ def get_css_colors():
                 "name_english": row[1],
                 "keyword": row[0],
             }
+
+def get_css_colors():
+    results = {}
+    with open('./misc/colors.csv') as csvfile:
+        records = csv.DictReader(csvfile)
+        for row in records:
+            results[row["keyword"]] = {
+                "hex": row["hex"],
+                "red": int(row["red"]),
+                "green": int(row["green"]),
+                "blue": int(row["blue"]),
+                "name_english": row["name_english"],
+                "keyword": row["keyword"],
+            }
     return results
 
-
-
-
-def generate_css():
-    colors = get_css_colors()
-#     f = open("./misc/fontcolors.css", "w")
-#     for key in colors:
-#         print(key)
-#         f.write(f"""
-# .{colors[key]['keyword']} {{
-#     /* {colors[key]['name_english']} */
-#     /* color: {colors[key]['hex']} */
-#     color: rgba({colors[key]['red']}, {colors[key]['green']}, {colors[key]['blue']}, 1);
-# }}
-
-# """)
-#     f.close()
-    # print(colors)
+def generate_css_fonts(colors = False):
+    if not colors:
+        colors = get_css_colors()
     with open("./misc/fontcolors.css", 'w') as cssfile:
         for key in colors:
             cssfile.write(f"""
@@ -184,6 +165,10 @@ def generate_css():
 
 """)
 
+def generate_css_backgrounds(colors = False):
+    if not colors:
+        colors = get_css_colors()
+
     with open("./misc/bgcolors.css", 'w') as cssfile:
         for key in colors:
             cssfile.write(f"""
@@ -194,3 +179,13 @@ def generate_css():
 }}
 
 """)
+
+def generate_csv(colors = False):
+    if not colors:
+        colors = get_css_colors()
+    colors = [value for value in colors.values()]
+    keys = colors[0].keys()
+    with open("./misc/colors_out.csv", 'w', newline='') as of:
+        dict_writer = csv.DictWriter(of, keys)
+        dict_writer.writeheader()
+        dict_writer.writerows(colors)
