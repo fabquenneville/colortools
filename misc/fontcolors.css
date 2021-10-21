@@ -1,0 +1,6055 @@
+
+.text_air_force_blue_raf {
+    /* Air Force Blue (Raf) */
+    /* color: #5D8AA8 */
+    color: rgba(93, 138, 168, 1);
+}
+
+
+.text_air_force_blue_usaf {
+    /* Air Force Blue (Usaf) */
+    /* color: #00308F */
+    color: rgba(0, 48, 143, 1);
+}
+
+
+.text_air_superiority_blue {
+    /* Air Superiority Blue */
+    /* color: #72A0C1 */
+    color: rgba(114, 160, 193, 1);
+}
+
+
+.text_alabama_crimson {
+    /* Alabama Crimson */
+    /* color: #A32638 */
+    color: rgba(163, 38, 56, 1);
+}
+
+
+.text_alice_blue {
+    /* Alice Blue */
+    /* color: #F0F8FF */
+    color: rgba(240, 248, 255, 1);
+}
+
+
+.text_alizarin_crimson {
+    /* Alizarin Crimson */
+    /* color: #E32636 */
+    color: rgba(227, 38, 54, 1);
+}
+
+
+.text_alloy_orange {
+    /* Alloy Orange */
+    /* color: #C46210 */
+    color: rgba(196, 98, 16, 1);
+}
+
+
+.text_almond {
+    /* Almond */
+    /* color: #EFDECD */
+    color: rgba(239, 222, 205, 1);
+}
+
+
+.text_amaranth {
+    /* Amaranth */
+    /* color: #E52B50 */
+    color: rgba(229, 43, 80, 1);
+}
+
+
+.text_amber {
+    /* Amber */
+    /* color: #FFBF00 */
+    color: rgba(255, 191, 0, 1);
+}
+
+
+.text_amber_sae_ece {
+    /* Amber (Sae/Ece) */
+    /* color: #FF7E00 */
+    color: rgba(255, 126, 0, 1);
+}
+
+
+.text_american_rose {
+    /* American Rose */
+    /* color: #FF033E */
+    color: rgba(255, 3, 62, 1);
+}
+
+
+.text_amethyst {
+    /* Amethyst */
+    /* color: #9966CC */
+    color: rgba(153, 102, 204, 1);
+}
+
+
+.text_android_green {
+    /* Android Green */
+    /* color: #A4C639 */
+    color: rgba(164, 198, 57, 1);
+}
+
+
+.text_anti_flash_white {
+    /* Anti-Flash White */
+    /* color: #F2F3F4 */
+    color: rgba(242, 243, 244, 1);
+}
+
+
+.text_antique_brass {
+    /* Antique Brass */
+    /* color: #CD9575 */
+    color: rgba(205, 149, 117, 1);
+}
+
+
+.text_antique_fuchsia {
+    /* Antique Fuchsia */
+    /* color: #915C83 */
+    color: rgba(145, 92, 131, 1);
+}
+
+
+.text_antique_ruby {
+    /* Antique Ruby */
+    /* color: #841B2D */
+    color: rgba(132, 27, 45, 1);
+}
+
+
+.text_antique_white {
+    /* Antique White */
+    /* color: #FAEBD7 */
+    color: rgba(250, 235, 215, 1);
+}
+
+
+.text_ao_english {
+    /* Ao (English) */
+    /* color: #008000 */
+    color: rgba(0, 128, 0, 1);
+}
+
+
+.text_apple_green {
+    /* Apple Green */
+    /* color: #8DB600 */
+    color: rgba(141, 182, 0, 1);
+}
+
+
+.text_apricot {
+    /* Apricot */
+    /* color: #FBCEB1 */
+    color: rgba(251, 206, 177, 1);
+}
+
+
+.text_aqua {
+    /* Aqua */
+    /* color: #00FFFF */
+    color: rgba(0, 255, 255, 1);
+}
+
+
+.text_aquamarine {
+    /* Aquamarine */
+    /* color: #7FFFD4 */
+    color: rgba(127, 255, 212, 1);
+}
+
+
+.text_army_green {
+    /* Army Green */
+    /* color: #4B5320 */
+    color: rgba(75, 83, 32, 1);
+}
+
+
+.text_arsenic {
+    /* Arsenic */
+    /* color: #3B444B */
+    color: rgba(59, 68, 75, 1);
+}
+
+
+.text_arylide_yellow {
+    /* Arylide Yellow */
+    /* color: #E9D66B */
+    color: rgba(233, 214, 107, 1);
+}
+
+
+.text_ash_grey {
+    /* Ash Grey */
+    /* color: #B2BEB5 */
+    color: rgba(178, 190, 181, 1);
+}
+
+
+.text_asparagus {
+    /* Asparagus */
+    /* color: #87A96B */
+    color: rgba(135, 169, 107, 1);
+}
+
+
+.text_atomic_tangerine {
+    /* Atomic Tangerine */
+    /* color: #FF9966 */
+    color: rgba(255, 153, 102, 1);
+}
+
+
+.text_auburn {
+    /* Auburn */
+    /* color: #A52A2A */
+    color: rgba(165, 42, 42, 1);
+}
+
+
+.text_aureolin {
+    /* Aureolin */
+    /* color: #FDEE00 */
+    color: rgba(253, 238, 0, 1);
+}
+
+
+.text_aurometalsaurus {
+    /* Aurometalsaurus */
+    /* color: #6E7F80 */
+    color: rgba(110, 127, 128, 1);
+}
+
+
+.text_avocado {
+    /* Avocado */
+    /* color: #568203 */
+    color: rgba(86, 130, 3, 1);
+}
+
+
+.text_azure {
+    /* Azure */
+    /* color: #007FFF */
+    color: rgba(0, 127, 255, 1);
+}
+
+
+.text_azure_mist_web {
+    /* Azure Mist/Web */
+    /* color: #F0FFFF */
+    color: rgba(240, 255, 255, 1);
+}
+
+
+.text_baby_blue {
+    /* Baby Blue */
+    /* color: #89CFF0 */
+    color: rgba(137, 207, 240, 1);
+}
+
+
+.text_baby_blue_eyes {
+    /* Baby Blue Eyes */
+    /* color: #A1CAF1 */
+    color: rgba(161, 202, 241, 1);
+}
+
+
+.text_baby_pink {
+    /* Baby Pink */
+    /* color: #F4C2C2 */
+    color: rgba(244, 194, 194, 1);
+}
+
+
+.text_ball_blue {
+    /* Ball Blue */
+    /* color: #21ABCD */
+    color: rgba(33, 171, 205, 1);
+}
+
+
+.text_banana_mania {
+    /* Banana Mania */
+    /* color: #FAE7B5 */
+    color: rgba(250, 231, 181, 1);
+}
+
+
+.text_banana_yellow {
+    /* Banana Yellow */
+    /* color: #FFE135 */
+    color: rgba(255, 225, 53, 1);
+}
+
+
+.text_barn_red {
+    /* Barn Red */
+    /* color: #7C0A02 */
+    color: rgba(124, 10, 2, 1);
+}
+
+
+.text_battleship_grey {
+    /* Battleship Grey */
+    /* color: #848482 */
+    color: rgba(132, 132, 130, 1);
+}
+
+
+.text_bazaar {
+    /* Bazaar */
+    /* color: #98777B */
+    color: rgba(152, 119, 123, 1);
+}
+
+
+.text_beau_blue {
+    /* Beau Blue */
+    /* color: #BCD4E6 */
+    color: rgba(188, 212, 230, 1);
+}
+
+
+.text_beaver {
+    /* Beaver */
+    /* color: #9F8170 */
+    color: rgba(159, 129, 112, 1);
+}
+
+
+.text_beige {
+    /* Beige */
+    /* color: #F5F5DC */
+    color: rgba(245, 245, 220, 1);
+}
+
+
+.text_big_dip_o_ruby {
+    /* Big Dip O’Ruby */
+    /* color: #9C2542 */
+    color: rgba(156, 37, 66, 1);
+}
+
+
+.text_bisque {
+    /* Bisque */
+    /* color: #FFE4C4 */
+    color: rgba(255, 228, 196, 1);
+}
+
+
+.text_bistre {
+    /* Bistre */
+    /* color: #3D2B1F */
+    color: rgba(61, 43, 31, 1);
+}
+
+
+.text_bittersweet {
+    /* Bittersweet */
+    /* color: #FE6F5E */
+    color: rgba(254, 111, 94, 1);
+}
+
+
+.text_bittersweet_shimmer {
+    /* Bittersweet Shimmer */
+    /* color: #BF4F51 */
+    color: rgba(191, 79, 81, 1);
+}
+
+
+.text_black {
+    /* Black */
+    /* color: #000000 */
+    color: rgba(0, 0, 0, 1);
+}
+
+
+.text_black_bean {
+    /* Black Bean */
+    /* color: #3D0C02 */
+    color: rgba(61, 12, 2, 1);
+}
+
+
+.text_black_leather_jacket {
+    /* Black Leather Jacket */
+    /* color: #253529 */
+    color: rgba(37, 53, 41, 1);
+}
+
+
+.text_black_olive {
+    /* Black Olive */
+    /* color: #3B3C36 */
+    color: rgba(59, 60, 54, 1);
+}
+
+
+.text_blanched_almond {
+    /* Blanched Almond */
+    /* color: #FFEBCD */
+    color: rgba(255, 235, 205, 1);
+}
+
+
+.text_blast_off_bronze {
+    /* Blast-Off Bronze */
+    /* color: #A57164 */
+    color: rgba(165, 113, 100, 1);
+}
+
+
+.text_bleu_de_france {
+    /* Bleu De France */
+    /* color: #318CE7 */
+    color: rgba(49, 140, 231, 1);
+}
+
+
+.text_blizzard_blue {
+    /* Blizzard Blue */
+    /* color: #ACE5EE */
+    color: rgba(172, 229, 238, 1);
+}
+
+
+.text_blond {
+    /* Blond */
+    /* color: #FAF0BE */
+    color: rgba(250, 240, 190, 1);
+}
+
+
+.text_blue {
+    /* Blue */
+    /* color: #0000FF */
+    color: rgba(0, 0, 255, 1);
+}
+
+
+.text_blue_bell {
+    /* Blue Bell */
+    /* color: #A2A2D0 */
+    color: rgba(162, 162, 208, 1);
+}
+
+
+.text_blue_crayola {
+    /* Blue (Crayola) */
+    /* color: #1F75FE */
+    color: rgba(31, 117, 254, 1);
+}
+
+
+.text_blue_gray {
+    /* Blue Gray */
+    /* color: #6699CC */
+    color: rgba(102, 153, 204, 1);
+}
+
+
+.text_blue_green {
+    /* Blue-Green */
+    /* color: #0D98BA */
+    color: rgba(13, 152, 186, 1);
+}
+
+
+.text_blue_munsell {
+    /* Blue (Munsell) */
+    /* color: #0093AF */
+    color: rgba(0, 147, 175, 1);
+}
+
+
+.text_blue_ncs {
+    /* Blue (Ncs) */
+    /* color: #0087BD */
+    color: rgba(0, 135, 189, 1);
+}
+
+
+.text_blue_pigment {
+    /* Blue (Pigment) */
+    /* color: #333399 */
+    color: rgba(51, 51, 153, 1);
+}
+
+
+.text_blue_ryb {
+    /* Blue (Ryb) */
+    /* color: #0247FE */
+    color: rgba(2, 71, 254, 1);
+}
+
+
+.text_blue_sapphire {
+    /* Blue Sapphire */
+    /* color: #126180 */
+    color: rgba(18, 97, 128, 1);
+}
+
+
+.text_blue_violet {
+    /* Blue-Violet */
+    /* color: #8A2BE2 */
+    color: rgba(138, 43, 226, 1);
+}
+
+
+.text_blush {
+    /* Blush */
+    /* color: #DE5D83 */
+    color: rgba(222, 93, 131, 1);
+}
+
+
+.text_bole {
+    /* Bole */
+    /* color: #79443B */
+    color: rgba(121, 68, 59, 1);
+}
+
+
+.text_bondi_blue {
+    /* Bondi Blue */
+    /* color: #0095B6 */
+    color: rgba(0, 149, 182, 1);
+}
+
+
+.text_bone {
+    /* Bone */
+    /* color: #E3DAC9 */
+    color: rgba(227, 218, 201, 1);
+}
+
+
+.text_boston_university_red {
+    /* Boston University Red */
+    /* color: #CC0000 */
+    color: rgba(204, 0, 0, 1);
+}
+
+
+.text_bottle_green {
+    /* Bottle Green */
+    /* color: #006A4E */
+    color: rgba(0, 106, 78, 1);
+}
+
+
+.text_boysenberry {
+    /* Boysenberry */
+    /* color: #873260 */
+    color: rgba(135, 50, 96, 1);
+}
+
+
+.text_brandeis_blue {
+    /* Brandeis Blue */
+    /* color: #0070FF */
+    color: rgba(0, 112, 255, 1);
+}
+
+
+.text_brass {
+    /* Brass */
+    /* color: #B5A642 */
+    color: rgba(181, 166, 66, 1);
+}
+
+
+.text_brick_red {
+    /* Brick Red */
+    /* color: #CB4154 */
+    color: rgba(203, 65, 84, 1);
+}
+
+
+.text_bright_cerulean {
+    /* Bright Cerulean */
+    /* color: #1DACD6 */
+    color: rgba(29, 172, 214, 1);
+}
+
+
+.text_bright_green {
+    /* Bright Green */
+    /* color: #66FF00 */
+    color: rgba(102, 255, 0, 1);
+}
+
+
+.text_bright_lavender {
+    /* Bright Lavender */
+    /* color: #BF94E4 */
+    color: rgba(191, 148, 228, 1);
+}
+
+
+.text_bright_maroon {
+    /* Bright Maroon */
+    /* color: #C32148 */
+    color: rgba(195, 33, 72, 1);
+}
+
+
+.text_bright_pink {
+    /* Bright Pink */
+    /* color: #FF007F */
+    color: rgba(255, 0, 127, 1);
+}
+
+
+.text_bright_turquoise {
+    /* Bright Turquoise */
+    /* color: #08E8DE */
+    color: rgba(8, 232, 222, 1);
+}
+
+
+.text_bright_ube {
+    /* Bright Ube */
+    /* color: #D19FE8 */
+    color: rgba(209, 159, 232, 1);
+}
+
+
+.text_brilliant_lavender {
+    /* Brilliant Lavender */
+    /* color: #F4BBFF */
+    color: rgba(244, 187, 255, 1);
+}
+
+
+.text_brilliant_rose {
+    /* Brilliant Rose */
+    /* color: #FF55A3 */
+    color: rgba(255, 85, 163, 1);
+}
+
+
+.text_brink_pink {
+    /* Brink Pink */
+    /* color: #FB607F */
+    color: rgba(251, 96, 127, 1);
+}
+
+
+.text_british_racing_green {
+    /* British Racing Green */
+    /* color: #004225 */
+    color: rgba(0, 66, 37, 1);
+}
+
+
+.text_bronze {
+    /* Bronze */
+    /* color: #CD7F32 */
+    color: rgba(205, 127, 50, 1);
+}
+
+
+.text_brown_traditional {
+    /* Brown (Traditional) */
+    /* color: #964B00 */
+    color: rgba(150, 75, 0, 1);
+}
+
+
+.text_brown_web {
+    /* Brown (Web) */
+    /* color: #A52A2A */
+    color: rgba(165, 42, 42, 1);
+}
+
+
+.text_bubble_gum {
+    /* Bubble Gum */
+    /* color: #FFC1CC */
+    color: rgba(255, 193, 204, 1);
+}
+
+
+.text_bubbles {
+    /* Bubbles */
+    /* color: #E7FEFF */
+    color: rgba(231, 254, 255, 1);
+}
+
+
+.text_buff {
+    /* Buff */
+    /* color: #F0DC82 */
+    color: rgba(240, 220, 130, 1);
+}
+
+
+.text_bulgarian_rose {
+    /* Bulgarian Rose */
+    /* color: #480607 */
+    color: rgba(72, 6, 7, 1);
+}
+
+
+.text_burgundy {
+    /* Burgundy */
+    /* color: #800020 */
+    color: rgba(128, 0, 32, 1);
+}
+
+
+.text_burlywood {
+    /* Burlywood */
+    /* color: #DEB887 */
+    color: rgba(222, 184, 135, 1);
+}
+
+
+.text_burnt_orange {
+    /* Burnt Orange */
+    /* color: #CC5500 */
+    color: rgba(204, 85, 0, 1);
+}
+
+
+.text_burnt_sienna {
+    /* Burnt Sienna */
+    /* color: #E97451 */
+    color: rgba(233, 116, 81, 1);
+}
+
+
+.text_burnt_umber {
+    /* Burnt Umber */
+    /* color: #8A3324 */
+    color: rgba(138, 51, 36, 1);
+}
+
+
+.text_byzantine {
+    /* Byzantine */
+    /* color: #BD33A4 */
+    color: rgba(189, 51, 164, 1);
+}
+
+
+.text_byzantium {
+    /* Byzantium */
+    /* color: #702963 */
+    color: rgba(112, 41, 99, 1);
+}
+
+
+.text_cadet {
+    /* Cadet */
+    /* color: #536872 */
+    color: rgba(83, 104, 114, 1);
+}
+
+
+.text_cadet_blue {
+    /* Cadet Blue */
+    /* color: #5F9EA0 */
+    color: rgba(95, 158, 160, 1);
+}
+
+
+.text_cadet_grey {
+    /* Cadet Grey */
+    /* color: #91A3B0 */
+    color: rgba(145, 163, 176, 1);
+}
+
+
+.text_cadmium_green {
+    /* Cadmium Green */
+    /* color: #006B3C */
+    color: rgba(0, 107, 60, 1);
+}
+
+
+.text_cadmium_orange {
+    /* Cadmium Orange */
+    /* color: #ED872D */
+    color: rgba(237, 135, 45, 1);
+}
+
+
+.text_cadmium_red {
+    /* Cadmium Red */
+    /* color: #E30022 */
+    color: rgba(227, 0, 34, 1);
+}
+
+
+.text_cadmium_yellow {
+    /* Cadmium Yellow */
+    /* color: #FFF600 */
+    color: rgba(255, 246, 0, 1);
+}
+
+
+.text_caf_au_lait {
+    /* Café Au Lait */
+    /* color: #A67B5B */
+    color: rgba(166, 123, 91, 1);
+}
+
+
+.text_caf_noir {
+    /* Café Noir */
+    /* color: #4B3621 */
+    color: rgba(75, 54, 33, 1);
+}
+
+
+.text_cal_poly_green {
+    /* Cal Poly Green */
+    /* color: #1E4D2B */
+    color: rgba(30, 77, 43, 1);
+}
+
+
+.text_cambridge_blue {
+    /* Cambridge Blue */
+    /* color: #A3C1AD */
+    color: rgba(163, 193, 173, 1);
+}
+
+
+.text_camel {
+    /* Camel */
+    /* color: #C19A6B */
+    color: rgba(193, 154, 107, 1);
+}
+
+
+.text_cameo_pink {
+    /* Cameo Pink */
+    /* color: #EFBBCC */
+    color: rgba(239, 187, 204, 1);
+}
+
+
+.text_camouflage_green {
+    /* Camouflage Green */
+    /* color: #78866B */
+    color: rgba(120, 134, 107, 1);
+}
+
+
+.text_canary_yellow {
+    /* Canary Yellow */
+    /* color: #FFEF00 */
+    color: rgba(255, 239, 0, 1);
+}
+
+
+.text_candy_apple_red {
+    /* Candy Apple Red */
+    /* color: #FF0800 */
+    color: rgba(255, 8, 0, 1);
+}
+
+
+.text_candy_pink {
+    /* Candy Pink */
+    /* color: #E4717A */
+    color: rgba(228, 113, 122, 1);
+}
+
+
+.text_capri {
+    /* Capri */
+    /* color: #00BFFF */
+    color: rgba(0, 191, 255, 1);
+}
+
+
+.text_caput_mortuum {
+    /* Caput Mortuum */
+    /* color: #592720 */
+    color: rgba(89, 39, 32, 1);
+}
+
+
+.text_cardinal {
+    /* Cardinal */
+    /* color: #C41E3A */
+    color: rgba(196, 30, 58, 1);
+}
+
+
+.text_caribbean_green {
+    /* Caribbean Green */
+    /* color: #00CC99 */
+    color: rgba(0, 204, 153, 1);
+}
+
+
+.text_carmine {
+    /* Carmine */
+    /* color: #960018 */
+    color: rgba(150, 0, 24, 1);
+}
+
+
+.text_carmine_m_p {
+    /* Carmine (M&P) */
+    /* color: #D70040 */
+    color: rgba(215, 0, 64, 1);
+}
+
+
+.text_carmine_pink {
+    /* Carmine Pink */
+    /* color: #EB4C42 */
+    color: rgba(235, 76, 66, 1);
+}
+
+
+.text_carmine_red {
+    /* Carmine Red */
+    /* color: #FF0038 */
+    color: rgba(255, 0, 56, 1);
+}
+
+
+.text_carnation_pink {
+    /* Carnation Pink */
+    /* color: #FFA6C9 */
+    color: rgba(255, 166, 201, 1);
+}
+
+
+.text_carnelian {
+    /* Carnelian */
+    /* color: #B31B1B */
+    color: rgba(179, 27, 27, 1);
+}
+
+
+.text_carolina_blue {
+    /* Carolina Blue */
+    /* color: #99BADD */
+    color: rgba(153, 186, 221, 1);
+}
+
+
+.text_carrot_orange {
+    /* Carrot Orange */
+    /* color: #ED9121 */
+    color: rgba(237, 145, 33, 1);
+}
+
+
+.text_catalina_blue {
+    /* Catalina Blue */
+    /* color: #062A78 */
+    color: rgba(6, 42, 120, 1);
+}
+
+
+.text_ceil {
+    /* Ceil */
+    /* color: #92A1CF */
+    color: rgba(146, 161, 207, 1);
+}
+
+
+.text_celadon {
+    /* Celadon */
+    /* color: #ACE1AF */
+    color: rgba(172, 225, 175, 1);
+}
+
+
+.text_celadon_blue {
+    /* Celadon Blue */
+    /* color: #007BA7 */
+    color: rgba(0, 123, 167, 1);
+}
+
+
+.text_celadon_green {
+    /* Celadon Green */
+    /* color: #2F847C */
+    color: rgba(47, 132, 124, 1);
+}
+
+
+.text_celeste_colour {
+    /* Celeste (Colour) */
+    /* color: #B2FFFF */
+    color: rgba(178, 255, 255, 1);
+}
+
+
+.text_celestial_blue {
+    /* Celestial Blue */
+    /* color: #4997D0 */
+    color: rgba(73, 151, 208, 1);
+}
+
+
+.text_cerise {
+    /* Cerise */
+    /* color: #DE3163 */
+    color: rgba(222, 49, 99, 1);
+}
+
+
+.text_cerise_pink {
+    /* Cerise Pink */
+    /* color: #EC3B83 */
+    color: rgba(236, 59, 131, 1);
+}
+
+
+.text_cerulean {
+    /* Cerulean */
+    /* color: #007BA7 */
+    color: rgba(0, 123, 167, 1);
+}
+
+
+.text_cerulean_blue {
+    /* Cerulean Blue */
+    /* color: #2A52BE */
+    color: rgba(42, 82, 190, 1);
+}
+
+
+.text_cerulean_frost {
+    /* Cerulean Frost */
+    /* color: #6D9BC3 */
+    color: rgba(109, 155, 195, 1);
+}
+
+
+.text_cg_blue {
+    /* Cg Blue */
+    /* color: #007AA5 */
+    color: rgba(0, 122, 165, 1);
+}
+
+
+.text_cg_red {
+    /* Cg Red */
+    /* color: #E03C31 */
+    color: rgba(224, 60, 49, 1);
+}
+
+
+.text_chamoisee {
+    /* Chamoisee */
+    /* color: #A0785A */
+    color: rgba(160, 120, 90, 1);
+}
+
+
+.text_champagne {
+    /* Champagne */
+    /* color: #FAD6A5 */
+    color: rgba(250, 214, 165, 1);
+}
+
+
+.text_charcoal {
+    /* Charcoal */
+    /* color: #36454F */
+    color: rgba(54, 69, 79, 1);
+}
+
+
+.text_charm_pink {
+    /* Charm Pink */
+    /* color: #E68FAC */
+    color: rgba(230, 143, 172, 1);
+}
+
+
+.text_chartreuse_traditional {
+    /* Chartreuse (Traditional) */
+    /* color: #DFFF00 */
+    color: rgba(223, 255, 0, 1);
+}
+
+
+.text_chartreuse_web {
+    /* Chartreuse (Web) */
+    /* color: #7FFF00 */
+    color: rgba(127, 255, 0, 1);
+}
+
+
+.text_cherry {
+    /* Cherry */
+    /* color: #DE3163 */
+    color: rgba(222, 49, 99, 1);
+}
+
+
+.text_cherry_blossom_pink {
+    /* Cherry Blossom Pink */
+    /* color: #FFB7C5 */
+    color: rgba(255, 183, 197, 1);
+}
+
+
+.text_chestnut {
+    /* Chestnut */
+    /* color: #CD5C5C */
+    color: rgba(205, 92, 92, 1);
+}
+
+
+.text_china_pink {
+    /* China Pink */
+    /* color: #DE6FA1 */
+    color: rgba(222, 111, 161, 1);
+}
+
+
+.text_china_rose {
+    /* China Rose */
+    /* color: #A8516E */
+    color: rgba(168, 81, 110, 1);
+}
+
+
+.text_chinese_red {
+    /* Chinese Red */
+    /* color: #AA381E */
+    color: rgba(170, 56, 30, 1);
+}
+
+
+.text_chocolate_traditional {
+    /* Chocolate (Traditional) */
+    /* color: #7B3F00 */
+    color: rgba(123, 63, 0, 1);
+}
+
+
+.text_chocolate_web {
+    /* Chocolate (Web) */
+    /* color: #D2691E */
+    color: rgba(210, 105, 30, 1);
+}
+
+
+.text_chrome_yellow {
+    /* Chrome Yellow */
+    /* color: #FFA700 */
+    color: rgba(255, 167, 0, 1);
+}
+
+
+.text_cinereous {
+    /* Cinereous */
+    /* color: #98817B */
+    color: rgba(152, 129, 123, 1);
+}
+
+
+.text_cinnabar {
+    /* Cinnabar */
+    /* color: #E34234 */
+    color: rgba(227, 66, 52, 1);
+}
+
+
+.text_cinnamon {
+    /* Cinnamon */
+    /* color: #D2691E */
+    color: rgba(210, 105, 30, 1);
+}
+
+
+.text_citrine {
+    /* Citrine */
+    /* color: #E4D00A */
+    color: rgba(228, 208, 10, 1);
+}
+
+
+.text_classic_rose {
+    /* Classic Rose */
+    /* color: #FBCCE7 */
+    color: rgba(251, 204, 231, 1);
+}
+
+
+.text_cobalt {
+    /* Cobalt */
+    /* color: #0047AB */
+    color: rgba(0, 71, 171, 1);
+}
+
+
+.text_cocoa_brown {
+    /* Cocoa Brown */
+    /* color: #D2691E */
+    color: rgba(210, 105, 30, 1);
+}
+
+
+.text_coffee {
+    /* Coffee */
+    /* color: #6F4E37 */
+    color: rgba(111, 78, 55, 1);
+}
+
+
+.text_columbia_blue {
+    /* Columbia Blue */
+    /* color: #9BDDFF */
+    color: rgba(155, 221, 255, 1);
+}
+
+
+.text_congo_pink {
+    /* Congo Pink */
+    /* color: #F88379 */
+    color: rgba(248, 131, 121, 1);
+}
+
+
+.text_cool_black {
+    /* Cool Black */
+    /* color: #002E63 */
+    color: rgba(0, 46, 99, 1);
+}
+
+
+.text_cool_grey {
+    /* Cool Grey */
+    /* color: #8C92AC */
+    color: rgba(140, 146, 172, 1);
+}
+
+
+.text_copper {
+    /* Copper */
+    /* color: #B87333 */
+    color: rgba(184, 115, 51, 1);
+}
+
+
+.text_copper_crayola {
+    /* Copper (Crayola) */
+    /* color: #DA8A67 */
+    color: rgba(218, 138, 103, 1);
+}
+
+
+.text_copper_penny {
+    /* Copper Penny */
+    /* color: #AD6F69 */
+    color: rgba(173, 111, 105, 1);
+}
+
+
+.text_copper_red {
+    /* Copper Red */
+    /* color: #CB6D51 */
+    color: rgba(203, 109, 81, 1);
+}
+
+
+.text_copper_rose {
+    /* Copper Rose */
+    /* color: #996666 */
+    color: rgba(153, 102, 102, 1);
+}
+
+
+.text_coquelicot {
+    /* Coquelicot */
+    /* color: #FF3800 */
+    color: rgba(255, 56, 0, 1);
+}
+
+
+.text_coral {
+    /* Coral */
+    /* color: #FF7F50 */
+    color: rgba(255, 127, 80, 1);
+}
+
+
+.text_coral_pink {
+    /* Coral Pink */
+    /* color: #F88379 */
+    color: rgba(248, 131, 121, 1);
+}
+
+
+.text_coral_red {
+    /* Coral Red */
+    /* color: #FF4040 */
+    color: rgba(255, 64, 64, 1);
+}
+
+
+.text_cordovan {
+    /* Cordovan */
+    /* color: #893F45 */
+    color: rgba(137, 63, 69, 1);
+}
+
+
+.text_corn {
+    /* Corn */
+    /* color: #FBEC5D */
+    color: rgba(251, 236, 93, 1);
+}
+
+
+.text_cornell_red {
+    /* Cornell Red */
+    /* color: #B31B1B */
+    color: rgba(179, 27, 27, 1);
+}
+
+
+.text_cornflower_blue {
+    /* Cornflower Blue */
+    /* color: #6495ED */
+    color: rgba(100, 149, 237, 1);
+}
+
+
+.text_cornsilk {
+    /* Cornsilk */
+    /* color: #FFF8DC */
+    color: rgba(255, 248, 220, 1);
+}
+
+
+.text_cosmic_latte {
+    /* Cosmic Latte */
+    /* color: #FFF8E7 */
+    color: rgba(255, 248, 231, 1);
+}
+
+
+.text_cotton_candy {
+    /* Cotton Candy */
+    /* color: #FFBCD9 */
+    color: rgba(255, 188, 217, 1);
+}
+
+
+.text_cream {
+    /* Cream */
+    /* color: #FFFDD0 */
+    color: rgba(255, 253, 208, 1);
+}
+
+
+.text_crimson {
+    /* Crimson */
+    /* color: #DC143C */
+    color: rgba(220, 20, 60, 1);
+}
+
+
+.text_crimson_glory {
+    /* Crimson Glory */
+    /* color: #BE0032 */
+    color: rgba(190, 0, 50, 1);
+}
+
+
+.text_cyan {
+    /* Cyan */
+    /* color: #00FFFF */
+    color: rgba(0, 255, 255, 1);
+}
+
+
+.text_cyan_process {
+    /* Cyan (Process) */
+    /* color: #00B7EB */
+    color: rgba(0, 183, 235, 1);
+}
+
+
+.text_daffodil {
+    /* Daffodil */
+    /* color: #FFFF31 */
+    color: rgba(255, 255, 49, 1);
+}
+
+
+.text_dandelion {
+    /* Dandelion */
+    /* color: #F0E130 */
+    color: rgba(240, 225, 48, 1);
+}
+
+
+.text_dark_blue {
+    /* Dark Blue */
+    /* color: #00008B */
+    color: rgba(0, 0, 139, 1);
+}
+
+
+.text_dark_brown {
+    /* Dark Brown */
+    /* color: #654321 */
+    color: rgba(101, 67, 33, 1);
+}
+
+
+.text_dark_byzantium {
+    /* Dark Byzantium */
+    /* color: #5D3954 */
+    color: rgba(93, 57, 84, 1);
+}
+
+
+.text_dark_candy_apple_red {
+    /* Dark Candy Apple Red */
+    /* color: #A40000 */
+    color: rgba(164, 0, 0, 1);
+}
+
+
+.text_dark_cerulean {
+    /* Dark Cerulean */
+    /* color: #08457E */
+    color: rgba(8, 69, 126, 1);
+}
+
+
+.text_dark_chestnut {
+    /* Dark Chestnut */
+    /* color: #986960 */
+    color: rgba(152, 105, 96, 1);
+}
+
+
+.text_dark_coral {
+    /* Dark Coral */
+    /* color: #CD5B45 */
+    color: rgba(205, 91, 69, 1);
+}
+
+
+.text_dark_cyan {
+    /* Dark Cyan */
+    /* color: #008B8B */
+    color: rgba(0, 139, 139, 1);
+}
+
+
+.text_dark_electric_blue {
+    /* Dark Electric Blue */
+    /* color: #536878 */
+    color: rgba(83, 104, 120, 1);
+}
+
+
+.text_dark_goldenrod {
+    /* Dark Goldenrod */
+    /* color: #B8860B */
+    color: rgba(184, 134, 11, 1);
+}
+
+
+.text_dark_gray {
+    /* Dark Gray */
+    /* color: #A9A9A9 */
+    color: rgba(169, 169, 169, 1);
+}
+
+
+.text_dark_green {
+    /* Dark Green */
+    /* color: #013220 */
+    color: rgba(1, 50, 32, 1);
+}
+
+
+.text_dark_imperial_blue {
+    /* Dark Imperial Blue */
+    /* color: #00416A */
+    color: rgba(0, 65, 106, 1);
+}
+
+
+.text_dark_jungle_green {
+    /* Dark Jungle Green */
+    /* color: #1A2421 */
+    color: rgba(26, 36, 33, 1);
+}
+
+
+.text_dark_khaki {
+    /* Dark Khaki */
+    /* color: #BDB76B */
+    color: rgba(189, 183, 107, 1);
+}
+
+
+.text_dark_lava {
+    /* Dark Lava */
+    /* color: #483C32 */
+    color: rgba(72, 60, 50, 1);
+}
+
+
+.text_dark_lavender {
+    /* Dark Lavender */
+    /* color: #734F96 */
+    color: rgba(115, 79, 150, 1);
+}
+
+
+.text_dark_magenta {
+    /* Dark Magenta */
+    /* color: #8B008B */
+    color: rgba(139, 0, 139, 1);
+}
+
+
+.text_dark_midnight_blue {
+    /* Dark Midnight Blue */
+    /* color: #003366 */
+    color: rgba(0, 51, 102, 1);
+}
+
+
+.text_dark_olive_green {
+    /* Dark Olive Green */
+    /* color: #556B2F */
+    color: rgba(85, 107, 47, 1);
+}
+
+
+.text_dark_orange {
+    /* Dark Orange */
+    /* color: #FF8C00 */
+    color: rgba(255, 140, 0, 1);
+}
+
+
+.text_dark_orchid {
+    /* Dark Orchid */
+    /* color: #9932CC */
+    color: rgba(153, 50, 204, 1);
+}
+
+
+.text_dark_pastel_blue {
+    /* Dark Pastel Blue */
+    /* color: #779ECB */
+    color: rgba(119, 158, 203, 1);
+}
+
+
+.text_dark_pastel_green {
+    /* Dark Pastel Green */
+    /* color: #03C03C */
+    color: rgba(3, 192, 60, 1);
+}
+
+
+.text_dark_pastel_purple {
+    /* Dark Pastel Purple */
+    /* color: #966FD6 */
+    color: rgba(150, 111, 214, 1);
+}
+
+
+.text_dark_pastel_red {
+    /* Dark Pastel Red */
+    /* color: #C23B22 */
+    color: rgba(194, 59, 34, 1);
+}
+
+
+.text_dark_pink {
+    /* Dark Pink */
+    /* color: #E75480 */
+    color: rgba(231, 84, 128, 1);
+}
+
+
+.text_dark_powder_blue {
+    /* Dark Powder Blue */
+    /* color: #003399 */
+    color: rgba(0, 51, 153, 1);
+}
+
+
+.text_dark_raspberry {
+    /* Dark Raspberry */
+    /* color: #872657 */
+    color: rgba(135, 38, 87, 1);
+}
+
+
+.text_dark_red {
+    /* Dark Red */
+    /* color: #8B0000 */
+    color: rgba(139, 0, 0, 1);
+}
+
+
+.text_dark_salmon {
+    /* Dark Salmon */
+    /* color: #E9967A */
+    color: rgba(233, 150, 122, 1);
+}
+
+
+.text_dark_scarlet {
+    /* Dark Scarlet */
+    /* color: #560319 */
+    color: rgba(86, 3, 25, 1);
+}
+
+
+.text_dark_sea_green {
+    /* Dark Sea Green */
+    /* color: #8FBC8F */
+    color: rgba(143, 188, 143, 1);
+}
+
+
+.text_dark_sienna {
+    /* Dark Sienna */
+    /* color: #3C1414 */
+    color: rgba(60, 20, 20, 1);
+}
+
+
+.text_dark_slate_blue {
+    /* Dark Slate Blue */
+    /* color: #483D8B */
+    color: rgba(72, 61, 139, 1);
+}
+
+
+.text_dark_slate_gray {
+    /* Dark Slate Gray */
+    /* color: #2F4F4F */
+    color: rgba(47, 79, 79, 1);
+}
+
+
+.text_dark_spring_green {
+    /* Dark Spring Green */
+    /* color: #177245 */
+    color: rgba(23, 114, 69, 1);
+}
+
+
+.text_dark_tan {
+    /* Dark Tan */
+    /* color: #918151 */
+    color: rgba(145, 129, 81, 1);
+}
+
+
+.text_dark_tangerine {
+    /* Dark Tangerine */
+    /* color: #FFA812 */
+    color: rgba(255, 168, 18, 1);
+}
+
+
+.text_dark_taupe {
+    /* Dark Taupe */
+    /* color: #483C32 */
+    color: rgba(72, 60, 50, 1);
+}
+
+
+.text_dark_terra_cotta {
+    /* Dark Terra Cotta */
+    /* color: #CC4E5C */
+    color: rgba(204, 78, 92, 1);
+}
+
+
+.text_dark_turquoise {
+    /* Dark Turquoise */
+    /* color: #00CED1 */
+    color: rgba(0, 206, 209, 1);
+}
+
+
+.text_dark_violet {
+    /* Dark Violet */
+    /* color: #9400D3 */
+    color: rgba(148, 0, 211, 1);
+}
+
+
+.text_dark_yellow {
+    /* Dark Yellow */
+    /* color: #9B870C */
+    color: rgba(155, 135, 12, 1);
+}
+
+
+.text_dartmouth_green {
+    /* Dartmouth Green */
+    /* color: #00703C */
+    color: rgba(0, 112, 60, 1);
+}
+
+
+.text_davy_s_grey {
+    /* Davy'S Grey */
+    /* color: #555555 */
+    color: rgba(85, 85, 85, 1);
+}
+
+
+.text_debian_red {
+    /* Debian Red */
+    /* color: #D70A53 */
+    color: rgba(215, 10, 83, 1);
+}
+
+
+.text_deep_carmine {
+    /* Deep Carmine */
+    /* color: #A9203E */
+    color: rgba(169, 32, 62, 1);
+}
+
+
+.text_deep_carmine_pink {
+    /* Deep Carmine Pink */
+    /* color: #EF3038 */
+    color: rgba(239, 48, 56, 1);
+}
+
+
+.text_deep_carrot_orange {
+    /* Deep Carrot Orange */
+    /* color: #E9692C */
+    color: rgba(233, 105, 44, 1);
+}
+
+
+.text_deep_cerise {
+    /* Deep Cerise */
+    /* color: #DA3287 */
+    color: rgba(218, 50, 135, 1);
+}
+
+
+.text_deep_champagne {
+    /* Deep Champagne */
+    /* color: #FAD6A5 */
+    color: rgba(250, 214, 165, 1);
+}
+
+
+.text_deep_chestnut {
+    /* Deep Chestnut */
+    /* color: #B94E48 */
+    color: rgba(185, 78, 72, 1);
+}
+
+
+.text_deep_coffee {
+    /* Deep Coffee */
+    /* color: #704241 */
+    color: rgba(112, 66, 65, 1);
+}
+
+
+.text_deep_fuchsia {
+    /* Deep Fuchsia */
+    /* color: #C154C1 */
+    color: rgba(193, 84, 193, 1);
+}
+
+
+.text_deep_jungle_green {
+    /* Deep Jungle Green */
+    /* color: #004B49 */
+    color: rgba(0, 75, 73, 1);
+}
+
+
+.text_deep_lilac {
+    /* Deep Lilac */
+    /* color: #9955BB */
+    color: rgba(153, 85, 187, 1);
+}
+
+
+.text_deep_magenta {
+    /* Deep Magenta */
+    /* color: #CC00CC */
+    color: rgba(204, 0, 204, 1);
+}
+
+
+.text_deep_peach {
+    /* Deep Peach */
+    /* color: #FFCBA4 */
+    color: rgba(255, 203, 164, 1);
+}
+
+
+.text_deep_pink {
+    /* Deep Pink */
+    /* color: #FF1493 */
+    color: rgba(255, 20, 147, 1);
+}
+
+
+.text_deep_ruby {
+    /* Deep Ruby */
+    /* color: #843F5B */
+    color: rgba(132, 63, 91, 1);
+}
+
+
+.text_deep_saffron {
+    /* Deep Saffron */
+    /* color: #FF9933 */
+    color: rgba(255, 153, 51, 1);
+}
+
+
+.text_deep_sky_blue {
+    /* Deep Sky Blue */
+    /* color: #00BFFF */
+    color: rgba(0, 191, 255, 1);
+}
+
+
+.text_deep_tuscan_red {
+    /* Deep Tuscan Red */
+    /* color: #66424D */
+    color: rgba(102, 66, 77, 1);
+}
+
+
+.text_denim {
+    /* Denim */
+    /* color: #1560BD */
+    color: rgba(21, 96, 189, 1);
+}
+
+
+.text_desert {
+    /* Desert */
+    /* color: #C19A6B */
+    color: rgba(193, 154, 107, 1);
+}
+
+
+.text_desert_sand {
+    /* Desert Sand */
+    /* color: #EDC9AF */
+    color: rgba(237, 201, 175, 1);
+}
+
+
+.text_dim_gray {
+    /* Dim Gray */
+    /* color: #696969 */
+    color: rgba(105, 105, 105, 1);
+}
+
+
+.text_dodger_blue {
+    /* Dodger Blue */
+    /* color: #1E90FF */
+    color: rgba(30, 144, 255, 1);
+}
+
+
+.text_dogwood_rose {
+    /* Dogwood Rose */
+    /* color: #D71868 */
+    color: rgba(215, 24, 104, 1);
+}
+
+
+.text_dollar_bill {
+    /* Dollar Bill */
+    /* color: #85BB65 */
+    color: rgba(133, 187, 101, 1);
+}
+
+
+.text_drab {
+    /* Drab */
+    /* color: #967117 */
+    color: rgba(150, 113, 23, 1);
+}
+
+
+.text_duke_blue {
+    /* Duke Blue */
+    /* color: #00009C */
+    color: rgba(0, 0, 156, 1);
+}
+
+
+.text_earth_yellow {
+    /* Earth Yellow */
+    /* color: #E1A95F */
+    color: rgba(225, 169, 95, 1);
+}
+
+
+.text_ebony {
+    /* Ebony */
+    /* color: #555D50 */
+    color: rgba(85, 93, 80, 1);
+}
+
+
+.text_ecru {
+    /* Ecru */
+    /* color: #C2B280 */
+    color: rgba(194, 178, 128, 1);
+}
+
+
+.text_eggplant {
+    /* Eggplant */
+    /* color: #614051 */
+    color: rgba(97, 64, 81, 1);
+}
+
+
+.text_eggshell {
+    /* Eggshell */
+    /* color: #F0EAD6 */
+    color: rgba(240, 234, 214, 1);
+}
+
+
+.text_egyptian_blue {
+    /* Egyptian Blue */
+    /* color: #1034A6 */
+    color: rgba(16, 52, 166, 1);
+}
+
+
+.text_electric_blue {
+    /* Electric Blue */
+    /* color: #7DF9FF */
+    color: rgba(125, 249, 255, 1);
+}
+
+
+.text_electric_crimson {
+    /* Electric Crimson */
+    /* color: #FF003F */
+    color: rgba(255, 0, 63, 1);
+}
+
+
+.text_electric_cyan {
+    /* Electric Cyan */
+    /* color: #00FFFF */
+    color: rgba(0, 255, 255, 1);
+}
+
+
+.text_electric_green {
+    /* Electric Green */
+    /* color: #00FF00 */
+    color: rgba(0, 255, 0, 1);
+}
+
+
+.text_electric_indigo {
+    /* Electric Indigo */
+    /* color: #6F00FF */
+    color: rgba(111, 0, 255, 1);
+}
+
+
+.text_electric_lavender {
+    /* Electric Lavender */
+    /* color: #F4BBFF */
+    color: rgba(244, 187, 255, 1);
+}
+
+
+.text_electric_lime {
+    /* Electric Lime */
+    /* color: #CCFF00 */
+    color: rgba(204, 255, 0, 1);
+}
+
+
+.text_electric_purple {
+    /* Electric Purple */
+    /* color: #BF00FF */
+    color: rgba(191, 0, 255, 1);
+}
+
+
+.text_electric_ultramarine {
+    /* Electric Ultramarine */
+    /* color: #3F00FF */
+    color: rgba(63, 0, 255, 1);
+}
+
+
+.text_electric_violet {
+    /* Electric Violet */
+    /* color: #8F00FF */
+    color: rgba(143, 0, 255, 1);
+}
+
+
+.text_electric_yellow {
+    /* Electric Yellow */
+    /* color: #FFFF00 */
+    color: rgba(255, 255, 0, 1);
+}
+
+
+.text_emerald {
+    /* Emerald */
+    /* color: #50C878 */
+    color: rgba(80, 200, 120, 1);
+}
+
+
+.text_english_lavender {
+    /* English Lavender */
+    /* color: #B48395 */
+    color: rgba(180, 131, 149, 1);
+}
+
+
+.text_eton_blue {
+    /* Eton Blue */
+    /* color: #96C8A2 */
+    color: rgba(150, 200, 162, 1);
+}
+
+
+.text_fallow {
+    /* Fallow */
+    /* color: #C19A6B */
+    color: rgba(193, 154, 107, 1);
+}
+
+
+.text_falu_red {
+    /* Falu Red */
+    /* color: #801818 */
+    color: rgba(128, 24, 24, 1);
+}
+
+
+.text_fandango {
+    /* Fandango */
+    /* color: #B53389 */
+    color: rgba(181, 51, 137, 1);
+}
+
+
+.text_fashion_fuchsia {
+    /* Fashion Fuchsia */
+    /* color: #F400A1 */
+    color: rgba(244, 0, 161, 1);
+}
+
+
+.text_fawn {
+    /* Fawn */
+    /* color: #E5AA70 */
+    color: rgba(229, 170, 112, 1);
+}
+
+
+.text_feldgrau {
+    /* Feldgrau */
+    /* color: #4D5D53 */
+    color: rgba(77, 93, 83, 1);
+}
+
+
+.text_fern_green {
+    /* Fern Green */
+    /* color: #4F7942 */
+    color: rgba(79, 121, 66, 1);
+}
+
+
+.text_ferrari_red {
+    /* Ferrari Red */
+    /* color: #FF2800 */
+    color: rgba(255, 40, 0, 1);
+}
+
+
+.text_field_drab {
+    /* Field Drab */
+    /* color: #6C541E */
+    color: rgba(108, 84, 30, 1);
+}
+
+
+.text_fire_engine_red {
+    /* Fire Engine Red */
+    /* color: #CE2029 */
+    color: rgba(206, 32, 41, 1);
+}
+
+
+.text_firebrick {
+    /* Firebrick */
+    /* color: #B22222 */
+    color: rgba(178, 34, 34, 1);
+}
+
+
+.text_flame {
+    /* Flame */
+    /* color: #E25822 */
+    color: rgba(226, 88, 34, 1);
+}
+
+
+.text_flamingo_pink {
+    /* Flamingo Pink */
+    /* color: #FC8EAC */
+    color: rgba(252, 142, 172, 1);
+}
+
+
+.text_flavescent {
+    /* Flavescent */
+    /* color: #F7E98E */
+    color: rgba(247, 233, 142, 1);
+}
+
+
+.text_flax {
+    /* Flax */
+    /* color: #EEDC82 */
+    color: rgba(238, 220, 130, 1);
+}
+
+
+.text_floral_white {
+    /* Floral White */
+    /* color: #FFFAF0 */
+    color: rgba(255, 250, 240, 1);
+}
+
+
+.text_fluorescent_orange {
+    /* Fluorescent Orange */
+    /* color: #FFBF00 */
+    color: rgba(255, 191, 0, 1);
+}
+
+
+.text_fluorescent_pink {
+    /* Fluorescent Pink */
+    /* color: #FF1493 */
+    color: rgba(255, 20, 147, 1);
+}
+
+
+.text_fluorescent_yellow {
+    /* Fluorescent Yellow */
+    /* color: #CCFF00 */
+    color: rgba(204, 255, 0, 1);
+}
+
+
+.text_folly {
+    /* Folly */
+    /* color: #FF004F */
+    color: rgba(255, 0, 79, 1);
+}
+
+
+.text_forest_green_traditional {
+    /* Forest Green (Traditional) */
+    /* color: #014421 */
+    color: rgba(1, 68, 33, 1);
+}
+
+
+.text_forest_green_web {
+    /* Forest Green (Web) */
+    /* color: #228B22 */
+    color: rgba(34, 139, 34, 1);
+}
+
+
+.text_french_beige {
+    /* French Beige */
+    /* color: #A67B5B */
+    color: rgba(166, 123, 91, 1);
+}
+
+
+.text_french_blue {
+    /* French Blue */
+    /* color: #0072BB */
+    color: rgba(0, 114, 187, 1);
+}
+
+
+.text_french_lilac {
+    /* French Lilac */
+    /* color: #86608E */
+    color: rgba(134, 96, 142, 1);
+}
+
+
+.text_french_lime {
+    /* French Lime */
+    /* color: #CCFF00 */
+    color: rgba(204, 255, 0, 1);
+}
+
+
+.text_french_raspberry {
+    /* French Raspberry */
+    /* color: #C72C48 */
+    color: rgba(199, 44, 72, 1);
+}
+
+
+.text_french_rose {
+    /* French Rose */
+    /* color: #F64A8A */
+    color: rgba(246, 74, 138, 1);
+}
+
+
+.text_fuchsia {
+    /* Fuchsia */
+    /* color: #FF00FF */
+    color: rgba(255, 0, 255, 1);
+}
+
+
+.text_fuchsia_crayola {
+    /* Fuchsia (Crayola) */
+    /* color: #C154C1 */
+    color: rgba(193, 84, 193, 1);
+}
+
+
+.text_fuchsia_pink {
+    /* Fuchsia Pink */
+    /* color: #FF77FF */
+    color: rgba(255, 119, 255, 1);
+}
+
+
+.text_fuchsia_rose {
+    /* Fuchsia Rose */
+    /* color: #C74375 */
+    color: rgba(199, 67, 117, 1);
+}
+
+
+.text_fulvous {
+    /* Fulvous */
+    /* color: #E48400 */
+    color: rgba(228, 132, 0, 1);
+}
+
+
+.text_fuzzy_wuzzy {
+    /* Fuzzy Wuzzy */
+    /* color: #CC6666 */
+    color: rgba(204, 102, 102, 1);
+}
+
+
+.text_gainsboro {
+    /* Gainsboro */
+    /* color: #DCDCDC */
+    color: rgba(220, 220, 220, 1);
+}
+
+
+.text_gamboge {
+    /* Gamboge */
+    /* color: #E49B0F */
+    color: rgba(228, 155, 15, 1);
+}
+
+
+.text_ghost_white {
+    /* Ghost White */
+    /* color: #F8F8FF */
+    color: rgba(248, 248, 255, 1);
+}
+
+
+.text_ginger {
+    /* Ginger */
+    /* color: #B06500 */
+    color: rgba(176, 101, 0, 1);
+}
+
+
+.text_glaucous {
+    /* Glaucous */
+    /* color: #6082B6 */
+    color: rgba(96, 130, 182, 1);
+}
+
+
+.text_glitter {
+    /* Glitter */
+    /* color: #E6E8FA */
+    color: rgba(230, 232, 250, 1);
+}
+
+
+.text_gold_metallic {
+    /* Gold (Metallic) */
+    /* color: #D4AF37 */
+    color: rgba(212, 175, 55, 1);
+}
+
+
+.text_gold_web_golden {
+    /* Gold (Web) (Golden) */
+    /* color: #FFD700 */
+    color: rgba(255, 215, 0, 1);
+}
+
+
+.text_golden_brown {
+    /* Golden Brown */
+    /* color: #996515 */
+    color: rgba(153, 101, 21, 1);
+}
+
+
+.text_golden_poppy {
+    /* Golden Poppy */
+    /* color: #FCC200 */
+    color: rgba(252, 194, 0, 1);
+}
+
+
+.text_golden_yellow {
+    /* Golden Yellow */
+    /* color: #FFDF00 */
+    color: rgba(255, 223, 0, 1);
+}
+
+
+.text_goldenrod {
+    /* Goldenrod */
+    /* color: #DAA520 */
+    color: rgba(218, 165, 32, 1);
+}
+
+
+.text_granny_smith_apple {
+    /* Granny Smith Apple */
+    /* color: #A8E4A0 */
+    color: rgba(168, 228, 160, 1);
+}
+
+
+.text_gray {
+    /* Gray */
+    /* color: #808080 */
+    color: rgba(128, 128, 128, 1);
+}
+
+
+.text_gray_asparagus {
+    /* Gray-Asparagus */
+    /* color: #465945 */
+    color: rgba(70, 89, 69, 1);
+}
+
+
+.text_gray_html_css_gray {
+    /* Gray (Html/Css Gray) */
+    /* color: #808080 */
+    color: rgba(128, 128, 128, 1);
+}
+
+
+.text_gray_x11_gray {
+    /* Gray (X11 Gray) */
+    /* color: #BEBEBE */
+    color: rgba(190, 190, 190, 1);
+}
+
+
+.text_green_color_wheel_x11_green {
+    /* Green (Color Wheel) (X11 Green) */
+    /* color: #00FF00 */
+    color: rgba(0, 255, 0, 1);
+}
+
+
+.text_green_crayola {
+    /* Green (Crayola) */
+    /* color: #1CAC78 */
+    color: rgba(28, 172, 120, 1);
+}
+
+
+.text_green_html_css_green {
+    /* Green (Html/Css Green) */
+    /* color: #008000 */
+    color: rgba(0, 128, 0, 1);
+}
+
+
+.text_green_munsell {
+    /* Green (Munsell) */
+    /* color: #00A877 */
+    color: rgba(0, 168, 119, 1);
+}
+
+
+.text_green_ncs {
+    /* Green (Ncs) */
+    /* color: #009F6B */
+    color: rgba(0, 159, 107, 1);
+}
+
+
+.text_green_pigment {
+    /* Green (Pigment) */
+    /* color: #00A550 */
+    color: rgba(0, 165, 80, 1);
+}
+
+
+.text_green_ryb {
+    /* Green (Ryb) */
+    /* color: #66B032 */
+    color: rgba(102, 176, 50, 1);
+}
+
+
+.text_green_yellow {
+    /* Green-Yellow */
+    /* color: #ADFF2F */
+    color: rgba(173, 255, 47, 1);
+}
+
+
+.text_grullo {
+    /* Grullo */
+    /* color: #A99A86 */
+    color: rgba(169, 154, 134, 1);
+}
+
+
+.text_guppie_green {
+    /* Guppie Green */
+    /* color: #00FF7F */
+    color: rgba(0, 255, 127, 1);
+}
+
+
+.text_halay_be {
+    /* Halayà úBe */
+    /* color: #663854 */
+    color: rgba(102, 56, 84, 1);
+}
+
+
+.text_han_blue {
+    /* Han Blue */
+    /* color: #446CCF */
+    color: rgba(68, 108, 207, 1);
+}
+
+
+.text_han_purple {
+    /* Han Purple */
+    /* color: #5218FA */
+    color: rgba(82, 24, 250, 1);
+}
+
+
+.text_hansa_yellow {
+    /* Hansa Yellow */
+    /* color: #E9D66B */
+    color: rgba(233, 214, 107, 1);
+}
+
+
+.text_harlequin {
+    /* Harlequin */
+    /* color: #3FFF00 */
+    color: rgba(63, 255, 0, 1);
+}
+
+
+.text_harvard_crimson {
+    /* Harvard Crimson */
+    /* color: #C90016 */
+    color: rgba(201, 0, 22, 1);
+}
+
+
+.text_harvest_gold {
+    /* Harvest Gold */
+    /* color: #DA9100 */
+    color: rgba(218, 145, 0, 1);
+}
+
+
+.text_heart_gold {
+    /* Heart Gold */
+    /* color: #808000 */
+    color: rgba(128, 128, 0, 1);
+}
+
+
+.text_heliotrope {
+    /* Heliotrope */
+    /* color: #DF73FF */
+    color: rgba(223, 115, 255, 1);
+}
+
+
+.text_hollywood_cerise {
+    /* Hollywood Cerise */
+    /* color: #F400A1 */
+    color: rgba(244, 0, 161, 1);
+}
+
+
+.text_honeydew {
+    /* Honeydew */
+    /* color: #F0FFF0 */
+    color: rgba(240, 255, 240, 1);
+}
+
+
+.text_honolulu_blue {
+    /* Honolulu Blue */
+    /* color: #007FBF */
+    color: rgba(0, 127, 191, 1);
+}
+
+
+.text_hooker_s_green {
+    /* Hooker'S Green */
+    /* color: #49796B */
+    color: rgba(73, 121, 107, 1);
+}
+
+
+.text_hot_magenta {
+    /* Hot Magenta */
+    /* color: #FF1DCE */
+    color: rgba(255, 29, 206, 1);
+}
+
+
+.text_hot_pink {
+    /* Hot Pink */
+    /* color: #FF69B4 */
+    color: rgba(255, 105, 180, 1);
+}
+
+
+.text_hunter_green {
+    /* Hunter Green */
+    /* color: #355E3B */
+    color: rgba(53, 94, 59, 1);
+}
+
+
+.text_iceberg {
+    /* Iceberg */
+    /* color: #71A6D2 */
+    color: rgba(113, 166, 210, 1);
+}
+
+
+.text_icterine {
+    /* Icterine */
+    /* color: #FCF75E */
+    color: rgba(252, 247, 94, 1);
+}
+
+
+.text_imperial_blue {
+    /* Imperial Blue */
+    /* color: #002395 */
+    color: rgba(0, 35, 149, 1);
+}
+
+
+.text_inchworm {
+    /* Inchworm */
+    /* color: #B2EC5D */
+    color: rgba(178, 236, 93, 1);
+}
+
+
+.text_india_green {
+    /* India Green */
+    /* color: #138808 */
+    color: rgba(19, 136, 8, 1);
+}
+
+
+.text_indian_red {
+    /* Indian Red */
+    /* color: #CD5C5C */
+    color: rgba(205, 92, 92, 1);
+}
+
+
+.text_indian_yellow {
+    /* Indian Yellow */
+    /* color: #E3A857 */
+    color: rgba(227, 168, 87, 1);
+}
+
+
+.text_indigo {
+    /* Indigo */
+    /* color: #6F00FF */
+    color: rgba(111, 0, 255, 1);
+}
+
+
+.text_indigo_dye {
+    /* Indigo (Dye) */
+    /* color: #00416A */
+    color: rgba(0, 65, 106, 1);
+}
+
+
+.text_indigo_web {
+    /* Indigo (Web) */
+    /* color: #4B0082 */
+    color: rgba(75, 0, 130, 1);
+}
+
+
+.text_international_klein_blue {
+    /* International Klein Blue */
+    /* color: #002FA7 */
+    color: rgba(0, 47, 167, 1);
+}
+
+
+.text_international_orange_aerospace {
+    /* International Orange (Aerospace) */
+    /* color: #FF4F00 */
+    color: rgba(255, 79, 0, 1);
+}
+
+
+.text_international_orange_engineering {
+    /* International Orange (Engineering) */
+    /* color: #BA160C */
+    color: rgba(186, 22, 12, 1);
+}
+
+
+.text_international_orange_golden_gate_bridge {
+    /* International Orange (Golden Gate Bridge) */
+    /* color: #C0362C */
+    color: rgba(192, 54, 44, 1);
+}
+
+
+.text_iris {
+    /* Iris */
+    /* color: #5A4FCF */
+    color: rgba(90, 79, 207, 1);
+}
+
+
+.text_isabelline {
+    /* Isabelline */
+    /* color: #F4F0EC */
+    color: rgba(244, 240, 236, 1);
+}
+
+
+.text_islamic_green {
+    /* Islamic Green */
+    /* color: #009000 */
+    color: rgba(0, 144, 0, 1);
+}
+
+
+.text_ivory {
+    /* Ivory */
+    /* color: #FFFFF0 */
+    color: rgba(255, 255, 240, 1);
+}
+
+
+.text_jade {
+    /* Jade */
+    /* color: #00A86B */
+    color: rgba(0, 168, 107, 1);
+}
+
+
+.text_jasmine {
+    /* Jasmine */
+    /* color: #F8DE7E */
+    color: rgba(248, 222, 126, 1);
+}
+
+
+.text_jasper {
+    /* Jasper */
+    /* color: #D73B3E */
+    color: rgba(215, 59, 62, 1);
+}
+
+
+.text_jazzberry_jam {
+    /* Jazzberry Jam */
+    /* color: #A50B5E */
+    color: rgba(165, 11, 94, 1);
+}
+
+
+.text_jet {
+    /* Jet */
+    /* color: #343434 */
+    color: rgba(52, 52, 52, 1);
+}
+
+
+.text_jonquil {
+    /* Jonquil */
+    /* color: #FADA5E */
+    color: rgba(250, 218, 94, 1);
+}
+
+
+.text_june_bud {
+    /* June Bud */
+    /* color: #BDDA57 */
+    color: rgba(189, 218, 87, 1);
+}
+
+
+.text_jungle_green {
+    /* Jungle Green */
+    /* color: #29AB87 */
+    color: rgba(41, 171, 135, 1);
+}
+
+
+.text_kelly_green {
+    /* Kelly Green */
+    /* color: #4CBB17 */
+    color: rgba(76, 187, 23, 1);
+}
+
+
+.text_kenyan_copper {
+    /* Kenyan Copper */
+    /* color: #7C1C05 */
+    color: rgba(124, 28, 5, 1);
+}
+
+
+.text_khaki_html_css_khaki {
+    /* Khaki (Html/Css) (Khaki) */
+    /* color: #C3B091 */
+    color: rgba(195, 176, 145, 1);
+}
+
+
+.text_khaki_x11_light_khaki {
+    /* Khaki (X11) (Light Khaki) */
+    /* color: #F0E68C */
+    color: rgba(240, 230, 140, 1);
+}
+
+
+.text_ku_crimson {
+    /* Ku Crimson */
+    /* color: #E8000D */
+    color: rgba(232, 0, 13, 1);
+}
+
+
+.text_la_salle_green {
+    /* La Salle Green */
+    /* color: #087830 */
+    color: rgba(8, 120, 48, 1);
+}
+
+
+.text_languid_lavender {
+    /* Languid Lavender */
+    /* color: #D6CADD */
+    color: rgba(214, 202, 221, 1);
+}
+
+
+.text_lapis_lazuli {
+    /* Lapis Lazuli */
+    /* color: #26619C */
+    color: rgba(38, 97, 156, 1);
+}
+
+
+.text_laser_lemon {
+    /* Laser Lemon */
+    /* color: #FEFE22 */
+    color: rgba(254, 254, 34, 1);
+}
+
+
+.text_laurel_green {
+    /* Laurel Green */
+    /* color: #A9BA9D */
+    color: rgba(169, 186, 157, 1);
+}
+
+
+.text_lava {
+    /* Lava */
+    /* color: #CF1020 */
+    color: rgba(207, 16, 32, 1);
+}
+
+
+.text_lavender_blue {
+    /* Lavender Blue */
+    /* color: #CCCCFF */
+    color: rgba(204, 204, 255, 1);
+}
+
+
+.text_lavender_blush {
+    /* Lavender Blush */
+    /* color: #FFF0F5 */
+    color: rgba(255, 240, 245, 1);
+}
+
+
+.text_lavender_floral {
+    /* Lavender (Floral) */
+    /* color: #B57EDC */
+    color: rgba(181, 126, 220, 1);
+}
+
+
+.text_lavender_gray {
+    /* Lavender Gray */
+    /* color: #C4C3D0 */
+    color: rgba(196, 195, 208, 1);
+}
+
+
+.text_lavender_indigo {
+    /* Lavender Indigo */
+    /* color: #9457EB */
+    color: rgba(148, 87, 235, 1);
+}
+
+
+.text_lavender_magenta {
+    /* Lavender Magenta */
+    /* color: #EE82EE */
+    color: rgba(238, 130, 238, 1);
+}
+
+
+.text_lavender_mist {
+    /* Lavender Mist */
+    /* color: #E6E6FA */
+    color: rgba(230, 230, 250, 1);
+}
+
+
+.text_lavender_pink {
+    /* Lavender Pink */
+    /* color: #FBAED2 */
+    color: rgba(251, 174, 210, 1);
+}
+
+
+.text_lavender_purple {
+    /* Lavender Purple */
+    /* color: #967BB6 */
+    color: rgba(150, 123, 182, 1);
+}
+
+
+.text_lavender_rose {
+    /* Lavender Rose */
+    /* color: #FBA0E3 */
+    color: rgba(251, 160, 227, 1);
+}
+
+
+.text_lavender_web {
+    /* Lavender (Web) */
+    /* color: #E6E6FA */
+    color: rgba(230, 230, 250, 1);
+}
+
+
+.text_lawn_green {
+    /* Lawn Green */
+    /* color: #7CFC00 */
+    color: rgba(124, 252, 0, 1);
+}
+
+
+.text_lemon {
+    /* Lemon */
+    /* color: #FFF700 */
+    color: rgba(255, 247, 0, 1);
+}
+
+
+.text_lemon_chiffon {
+    /* Lemon Chiffon */
+    /* color: #FFFACD */
+    color: rgba(255, 250, 205, 1);
+}
+
+
+.text_lemon_lime {
+    /* Lemon Lime */
+    /* color: #E3FF00 */
+    color: rgba(227, 255, 0, 1);
+}
+
+
+.text_licorice {
+    /* Licorice */
+    /* color: #1A1110 */
+    color: rgba(26, 17, 16, 1);
+}
+
+
+.text_light_apricot {
+    /* Light Apricot */
+    /* color: #FDD5B1 */
+    color: rgba(253, 213, 177, 1);
+}
+
+
+.text_light_blue {
+    /* Light Blue */
+    /* color: #ADD8E6 */
+    color: rgba(173, 216, 230, 1);
+}
+
+
+.text_light_brown {
+    /* Light Brown */
+    /* color: #B5651D */
+    color: rgba(181, 101, 29, 1);
+}
+
+
+.text_light_carmine_pink {
+    /* Light Carmine Pink */
+    /* color: #E66771 */
+    color: rgba(230, 103, 113, 1);
+}
+
+
+.text_light_coral {
+    /* Light Coral */
+    /* color: #F08080 */
+    color: rgba(240, 128, 128, 1);
+}
+
+
+.text_light_cornflower_blue {
+    /* Light Cornflower Blue */
+    /* color: #93CCEA */
+    color: rgba(147, 204, 234, 1);
+}
+
+
+.text_light_crimson {
+    /* Light Crimson */
+    /* color: #F56991 */
+    color: rgba(245, 105, 145, 1);
+}
+
+
+.text_light_cyan {
+    /* Light Cyan */
+    /* color: #E0FFFF */
+    color: rgba(224, 255, 255, 1);
+}
+
+
+.text_light_fuchsia_pink {
+    /* Light Fuchsia Pink */
+    /* color: #F984EF */
+    color: rgba(249, 132, 239, 1);
+}
+
+
+.text_light_goldenrod_yellow {
+    /* Light Goldenrod Yellow */
+    /* color: #FAFAD2 */
+    color: rgba(250, 250, 210, 1);
+}
+
+
+.text_light_gray {
+    /* Light Gray */
+    /* color: #D3D3D3 */
+    color: rgba(211, 211, 211, 1);
+}
+
+
+.text_light_green {
+    /* Light Green */
+    /* color: #90EE90 */
+    color: rgba(144, 238, 144, 1);
+}
+
+
+.text_light_khaki {
+    /* Light Khaki */
+    /* color: #F0E68C */
+    color: rgba(240, 230, 140, 1);
+}
+
+
+.text_light_pastel_purple {
+    /* Light Pastel Purple */
+    /* color: #B19CD9 */
+    color: rgba(177, 156, 217, 1);
+}
+
+
+.text_light_pink {
+    /* Light Pink */
+    /* color: #FFB6C1 */
+    color: rgba(255, 182, 193, 1);
+}
+
+
+.text_light_red_ochre {
+    /* Light Red Ochre */
+    /* color: #E97451 */
+    color: rgba(233, 116, 81, 1);
+}
+
+
+.text_light_salmon {
+    /* Light Salmon */
+    /* color: #FFA07A */
+    color: rgba(255, 160, 122, 1);
+}
+
+
+.text_light_salmon_pink {
+    /* Light Salmon Pink */
+    /* color: #FF9999 */
+    color: rgba(255, 153, 153, 1);
+}
+
+
+.text_light_sea_green {
+    /* Light Sea Green */
+    /* color: #20B2AA */
+    color: rgba(32, 178, 170, 1);
+}
+
+
+.text_light_sky_blue {
+    /* Light Sky Blue */
+    /* color: #87CEFA */
+    color: rgba(135, 206, 250, 1);
+}
+
+
+.text_light_slate_gray {
+    /* Light Slate Gray */
+    /* color: #778899 */
+    color: rgba(119, 136, 153, 1);
+}
+
+
+.text_light_taupe {
+    /* Light Taupe */
+    /* color: #B38B6D */
+    color: rgba(179, 139, 109, 1);
+}
+
+
+.text_light_thulian_pink {
+    /* Light Thulian Pink */
+    /* color: #E68FAC */
+    color: rgba(230, 143, 172, 1);
+}
+
+
+.text_light_yellow {
+    /* Light Yellow */
+    /* color: #FFFFE0 */
+    color: rgba(255, 255, 224, 1);
+}
+
+
+.text_lilac {
+    /* Lilac */
+    /* color: #C8A2C8 */
+    color: rgba(200, 162, 200, 1);
+}
+
+
+.text_lime_color_wheel {
+    /* Lime (Color Wheel) */
+    /* color: #BFFF00 */
+    color: rgba(191, 255, 0, 1);
+}
+
+
+.text_lime_green {
+    /* Lime Green */
+    /* color: #32CD32 */
+    color: rgba(50, 205, 50, 1);
+}
+
+
+.text_lime_web_x11_green {
+    /* Lime (Web) (X11 Green) */
+    /* color: #00FF00 */
+    color: rgba(0, 255, 0, 1);
+}
+
+
+.text_limerick {
+    /* Limerick */
+    /* color: #9DC209 */
+    color: rgba(157, 194, 9, 1);
+}
+
+
+.text_lincoln_green {
+    /* Lincoln Green */
+    /* color: #195905 */
+    color: rgba(25, 89, 5, 1);
+}
+
+
+.text_linen {
+    /* Linen */
+    /* color: #FAF0E6 */
+    color: rgba(250, 240, 230, 1);
+}
+
+
+.text_lion {
+    /* Lion */
+    /* color: #C19A6B */
+    color: rgba(193, 154, 107, 1);
+}
+
+
+.text_little_boy_blue {
+    /* Little Boy Blue */
+    /* color: #6CA0DC */
+    color: rgba(108, 160, 220, 1);
+}
+
+
+.text_liver {
+    /* Liver */
+    /* color: #534B4F */
+    color: rgba(83, 75, 79, 1);
+}
+
+
+.text_lust {
+    /* Lust */
+    /* color: #E62020 */
+    color: rgba(230, 32, 32, 1);
+}
+
+
+.text_magenta {
+    /* Magenta */
+    /* color: #FF00FF */
+    color: rgba(255, 0, 255, 1);
+}
+
+
+.text_magenta_dye {
+    /* Magenta (Dye) */
+    /* color: #CA1F7B */
+    color: rgba(202, 31, 123, 1);
+}
+
+
+.text_magenta_process {
+    /* Magenta (Process) */
+    /* color: #FF0090 */
+    color: rgba(255, 0, 144, 1);
+}
+
+
+.text_magic_mint {
+    /* Magic Mint */
+    /* color: #AAF0D1 */
+    color: rgba(170, 240, 209, 1);
+}
+
+
+.text_magnolia {
+    /* Magnolia */
+    /* color: #F8F4FF */
+    color: rgba(248, 244, 255, 1);
+}
+
+
+.text_mahogany {
+    /* Mahogany */
+    /* color: #C04000 */
+    color: rgba(192, 64, 0, 1);
+}
+
+
+.text_maize {
+    /* Maize */
+    /* color: #FBEC5D */
+    color: rgba(251, 236, 93, 1);
+}
+
+
+.text_majorelle_blue {
+    /* Majorelle Blue */
+    /* color: #6050DC */
+    color: rgba(96, 80, 220, 1);
+}
+
+
+.text_malachite {
+    /* Malachite */
+    /* color: #0BDA51 */
+    color: rgba(11, 218, 81, 1);
+}
+
+
+.text_manatee {
+    /* Manatee */
+    /* color: #979AAA */
+    color: rgba(151, 154, 170, 1);
+}
+
+
+.text_mango_tango {
+    /* Mango Tango */
+    /* color: #FF8243 */
+    color: rgba(255, 130, 67, 1);
+}
+
+
+.text_mantis {
+    /* Mantis */
+    /* color: #74C365 */
+    color: rgba(116, 195, 101, 1);
+}
+
+
+.text_mardi_gras {
+    /* Mardi Gras */
+    /* color: #880085 */
+    color: rgba(136, 0, 133, 1);
+}
+
+
+.text_maroon_crayola {
+    /* Maroon (Crayola) */
+    /* color: #C32148 */
+    color: rgba(195, 33, 72, 1);
+}
+
+
+.text_maroon_html_css {
+    /* Maroon (Html/Css) */
+    /* color: #800000 */
+    color: rgba(128, 0, 0, 1);
+}
+
+
+.text_maroon_x11 {
+    /* Maroon (X11) */
+    /* color: #B03060 */
+    color: rgba(176, 48, 96, 1);
+}
+
+
+.text_mauve {
+    /* Mauve */
+    /* color: #E0B0FF */
+    color: rgba(224, 176, 255, 1);
+}
+
+
+.text_mauve_taupe {
+    /* Mauve Taupe */
+    /* color: #915F6D */
+    color: rgba(145, 95, 109, 1);
+}
+
+
+.text_mauvelous {
+    /* Mauvelous */
+    /* color: #EF98AA */
+    color: rgba(239, 152, 170, 1);
+}
+
+
+.text_maya_blue {
+    /* Maya Blue */
+    /* color: #73C2FB */
+    color: rgba(115, 194, 251, 1);
+}
+
+
+.text_meat_brown {
+    /* Meat Brown */
+    /* color: #E5B73B */
+    color: rgba(229, 183, 59, 1);
+}
+
+
+.text_medium_aquamarine {
+    /* Medium Aquamarine */
+    /* color: #66DDAA */
+    color: rgba(102, 221, 170, 1);
+}
+
+
+.text_medium_blue {
+    /* Medium Blue */
+    /* color: #0000CD */
+    color: rgba(0, 0, 205, 1);
+}
+
+
+.text_medium_candy_apple_red {
+    /* Medium Candy Apple Red */
+    /* color: #E2062C */
+    color: rgba(226, 6, 44, 1);
+}
+
+
+.text_medium_carmine {
+    /* Medium Carmine */
+    /* color: #AF4035 */
+    color: rgba(175, 64, 53, 1);
+}
+
+
+.text_medium_champagne {
+    /* Medium Champagne */
+    /* color: #F3E5AB */
+    color: rgba(243, 229, 171, 1);
+}
+
+
+.text_medium_electric_blue {
+    /* Medium Electric Blue */
+    /* color: #035096 */
+    color: rgba(3, 80, 150, 1);
+}
+
+
+.text_medium_jungle_green {
+    /* Medium Jungle Green */
+    /* color: #1C352D */
+    color: rgba(28, 53, 45, 1);
+}
+
+
+.text_medium_lavender_magenta {
+    /* Medium Lavender Magenta */
+    /* color: #DDA0DD */
+    color: rgba(221, 160, 221, 1);
+}
+
+
+.text_medium_orchid {
+    /* Medium Orchid */
+    /* color: #BA55D3 */
+    color: rgba(186, 85, 211, 1);
+}
+
+
+.text_medium_persian_blue {
+    /* Medium Persian Blue */
+    /* color: #0067A5 */
+    color: rgba(0, 103, 165, 1);
+}
+
+
+.text_medium_purple {
+    /* Medium Purple */
+    /* color: #9370DB */
+    color: rgba(147, 112, 219, 1);
+}
+
+
+.text_medium_red_violet {
+    /* Medium Red-Violet */
+    /* color: #BB3385 */
+    color: rgba(187, 51, 133, 1);
+}
+
+
+.text_medium_ruby {
+    /* Medium Ruby */
+    /* color: #AA4069 */
+    color: rgba(170, 64, 105, 1);
+}
+
+
+.text_medium_sea_green {
+    /* Medium Sea Green */
+    /* color: #3CB371 */
+    color: rgba(60, 179, 113, 1);
+}
+
+
+.text_medium_slate_blue {
+    /* Medium Slate Blue */
+    /* color: #7B68EE */
+    color: rgba(123, 104, 238, 1);
+}
+
+
+.text_medium_spring_bud {
+    /* Medium Spring Bud */
+    /* color: #C9DC87 */
+    color: rgba(201, 220, 135, 1);
+}
+
+
+.text_medium_spring_green {
+    /* Medium Spring Green */
+    /* color: #00FA9A */
+    color: rgba(0, 250, 154, 1);
+}
+
+
+.text_medium_taupe {
+    /* Medium Taupe */
+    /* color: #674C47 */
+    color: rgba(103, 76, 71, 1);
+}
+
+
+.text_medium_turquoise {
+    /* Medium Turquoise */
+    /* color: #48D1CC */
+    color: rgba(72, 209, 204, 1);
+}
+
+
+.text_medium_tuscan_red {
+    /* Medium Tuscan Red */
+    /* color: #79443B */
+    color: rgba(121, 68, 59, 1);
+}
+
+
+.text_medium_vermilion {
+    /* Medium Vermilion */
+    /* color: #D9603B */
+    color: rgba(217, 96, 59, 1);
+}
+
+
+.text_medium_violet_red {
+    /* Medium Violet-Red */
+    /* color: #C71585 */
+    color: rgba(199, 21, 133, 1);
+}
+
+
+.text_mellow_apricot {
+    /* Mellow Apricot */
+    /* color: #F8B878 */
+    color: rgba(248, 184, 120, 1);
+}
+
+
+.text_mellow_yellow {
+    /* Mellow Yellow */
+    /* color: #F8DE7E */
+    color: rgba(248, 222, 126, 1);
+}
+
+
+.text_melon {
+    /* Melon */
+    /* color: #FDBCB4 */
+    color: rgba(253, 188, 180, 1);
+}
+
+
+.text_midnight_blue {
+    /* Midnight Blue */
+    /* color: #191970 */
+    color: rgba(25, 25, 112, 1);
+}
+
+
+.text_midnight_green_eagle_green {
+    /* Midnight Green (Eagle Green) */
+    /* color: #004953 */
+    color: rgba(0, 73, 83, 1);
+}
+
+
+.text_mikado_yellow {
+    /* Mikado Yellow */
+    /* color: #FFC40C */
+    color: rgba(255, 196, 12, 1);
+}
+
+
+.text_mint {
+    /* Mint */
+    /* color: #3EB489 */
+    color: rgba(62, 180, 137, 1);
+}
+
+
+.text_mint_cream {
+    /* Mint Cream */
+    /* color: #F5FFFA */
+    color: rgba(245, 255, 250, 1);
+}
+
+
+.text_mint_green {
+    /* Mint Green */
+    /* color: #98FF98 */
+    color: rgba(152, 255, 152, 1);
+}
+
+
+.text_misty_rose {
+    /* Misty Rose */
+    /* color: #FFE4E1 */
+    color: rgba(255, 228, 225, 1);
+}
+
+
+.text_moccasin {
+    /* Moccasin */
+    /* color: #FAEBD7 */
+    color: rgba(250, 235, 215, 1);
+}
+
+
+.text_mode_beige {
+    /* Mode Beige */
+    /* color: #967117 */
+    color: rgba(150, 113, 23, 1);
+}
+
+
+.text_moonstone_blue {
+    /* Moonstone Blue */
+    /* color: #73A9C2 */
+    color: rgba(115, 169, 194, 1);
+}
+
+
+.text_mordant_red_19 {
+    /* Mordant Red 19 */
+    /* color: #AE0C00 */
+    color: rgba(174, 12, 0, 1);
+}
+
+
+.text_moss_green {
+    /* Moss Green */
+    /* color: #ADDFAD */
+    color: rgba(173, 223, 173, 1);
+}
+
+
+.text_mountain_meadow {
+    /* Mountain Meadow */
+    /* color: #30BA8F */
+    color: rgba(48, 186, 143, 1);
+}
+
+
+.text_mountbatten_pink {
+    /* Mountbatten Pink */
+    /* color: #997A8D */
+    color: rgba(153, 122, 141, 1);
+}
+
+
+.text_msu_green {
+    /* Msu Green */
+    /* color: #18453B */
+    color: rgba(24, 69, 59, 1);
+}
+
+
+.text_mulberry {
+    /* Mulberry */
+    /* color: #C54B8C */
+    color: rgba(197, 75, 140, 1);
+}
+
+
+.text_mustard {
+    /* Mustard */
+    /* color: #FFDB58 */
+    color: rgba(255, 219, 88, 1);
+}
+
+
+.text_myrtle {
+    /* Myrtle */
+    /* color: #21421E */
+    color: rgba(33, 66, 30, 1);
+}
+
+
+.text_nadeshiko_pink {
+    /* Nadeshiko Pink */
+    /* color: #F6ADC6 */
+    color: rgba(246, 173, 198, 1);
+}
+
+
+.text_napier_green {
+    /* Napier Green */
+    /* color: #2A8000 */
+    color: rgba(42, 128, 0, 1);
+}
+
+
+.text_naples_yellow {
+    /* Naples Yellow */
+    /* color: #FADA5E */
+    color: rgba(250, 218, 94, 1);
+}
+
+
+.text_navajo_white {
+    /* Navajo White */
+    /* color: #FFDEAD */
+    color: rgba(255, 222, 173, 1);
+}
+
+
+.text_navy_blue {
+    /* Navy Blue */
+    /* color: #000080 */
+    color: rgba(0, 0, 128, 1);
+}
+
+
+.text_neon_carrot {
+    /* Neon Carrot */
+    /* color: #FFA343 */
+    color: rgba(255, 163, 67, 1);
+}
+
+
+.text_neon_fuchsia {
+    /* Neon Fuchsia */
+    /* color: #FE4164 */
+    color: rgba(254, 65, 100, 1);
+}
+
+
+.text_neon_green {
+    /* Neon Green */
+    /* color: #39FF14 */
+    color: rgba(57, 255, 20, 1);
+}
+
+
+.text_new_york_pink {
+    /* New York Pink */
+    /* color: #D7837F */
+    color: rgba(215, 131, 127, 1);
+}
+
+
+.text_non_photo_blue {
+    /* Non-Photo Blue */
+    /* color: #A4DDED */
+    color: rgba(164, 221, 237, 1);
+}
+
+
+.text_north_texas_green {
+    /* North Texas Green */
+    /* color: #059033 */
+    color: rgba(5, 144, 51, 1);
+}
+
+
+.text_ocean_boat_blue {
+    /* Ocean Boat Blue */
+    /* color: #0077BE */
+    color: rgba(0, 119, 190, 1);
+}
+
+
+.text_ochre {
+    /* Ochre */
+    /* color: #CC7722 */
+    color: rgba(204, 119, 34, 1);
+}
+
+
+.text_office_green {
+    /* Office Green */
+    /* color: #008000 */
+    color: rgba(0, 128, 0, 1);
+}
+
+
+.text_old_gold {
+    /* Old Gold */
+    /* color: #CFB53B */
+    color: rgba(207, 181, 59, 1);
+}
+
+
+.text_old_lace {
+    /* Old Lace */
+    /* color: #FDF5E6 */
+    color: rgba(253, 245, 230, 1);
+}
+
+
+.text_old_lavender {
+    /* Old Lavender */
+    /* color: #796878 */
+    color: rgba(121, 104, 120, 1);
+}
+
+
+.text_old_mauve {
+    /* Old Mauve */
+    /* color: #673147 */
+    color: rgba(103, 49, 71, 1);
+}
+
+
+.text_old_rose {
+    /* Old Rose */
+    /* color: #C08081 */
+    color: rgba(192, 128, 129, 1);
+}
+
+
+.text_olive {
+    /* Olive */
+    /* color: #808000 */
+    color: rgba(128, 128, 0, 1);
+}
+
+
+.text_olive_drab_7 {
+    /* Olive Drab #7 */
+    /* color: #3C341F */
+    color: rgba(60, 52, 31, 1);
+}
+
+
+.text_olive_drab_web_olive_drab_3 {
+    /* Olive Drab (Web) (Olive Drab #3) */
+    /* color: #6B8E23 */
+    color: rgba(107, 142, 35, 1);
+}
+
+
+.text_olivine {
+    /* Olivine */
+    /* color: #9AB973 */
+    color: rgba(154, 185, 115, 1);
+}
+
+
+.text_onyx {
+    /* Onyx */
+    /* color: #353839 */
+    color: rgba(53, 56, 57, 1);
+}
+
+
+.text_opera_mauve {
+    /* Opera Mauve */
+    /* color: #B784A7 */
+    color: rgba(183, 132, 167, 1);
+}
+
+
+.text_orange_color_wheel {
+    /* Orange (Color Wheel) */
+    /* color: #FF7F00 */
+    color: rgba(255, 127, 0, 1);
+}
+
+
+.text_orange_peel {
+    /* Orange Peel */
+    /* color: #FF9F00 */
+    color: rgba(255, 159, 0, 1);
+}
+
+
+.text_orange_red {
+    /* Orange-Red */
+    /* color: #FF4500 */
+    color: rgba(255, 69, 0, 1);
+}
+
+
+.text_orange_ryb {
+    /* Orange (Ryb) */
+    /* color: #FB9902 */
+    color: rgba(251, 153, 2, 1);
+}
+
+
+.text_orange_web_color {
+    /* Orange (Web Color) */
+    /* color: #FFA500 */
+    color: rgba(255, 165, 0, 1);
+}
+
+
+.text_orchid {
+    /* Orchid */
+    /* color: #DA70D6 */
+    color: rgba(218, 112, 214, 1);
+}
+
+
+.text_otter_brown {
+    /* Otter Brown */
+    /* color: #654321 */
+    color: rgba(101, 67, 33, 1);
+}
+
+
+.text_ou_crimson_red {
+    /* Ou Crimson Red */
+    /* color: #990000 */
+    color: rgba(153, 0, 0, 1);
+}
+
+
+.text_outer_space {
+    /* Outer Space */
+    /* color: #414A4C */
+    color: rgba(65, 74, 76, 1);
+}
+
+
+.text_outrageous_orange {
+    /* Outrageous Orange */
+    /* color: #FF6E4A */
+    color: rgba(255, 110, 74, 1);
+}
+
+
+.text_oxford_blue {
+    /* Oxford Blue */
+    /* color: #002147 */
+    color: rgba(0, 33, 71, 1);
+}
+
+
+.text_pakistan_green {
+    /* Pakistan Green */
+    /* color: #006600 */
+    color: rgba(0, 102, 0, 1);
+}
+
+
+.text_palatinate_blue {
+    /* Palatinate Blue */
+    /* color: #273BE2 */
+    color: rgba(39, 59, 226, 1);
+}
+
+
+.text_palatinate_purple {
+    /* Palatinate Purple */
+    /* color: #682860 */
+    color: rgba(104, 40, 96, 1);
+}
+
+
+.text_pale_aqua {
+    /* Pale Aqua */
+    /* color: #BCD4E6 */
+    color: rgba(188, 212, 230, 1);
+}
+
+
+.text_pale_blue {
+    /* Pale Blue */
+    /* color: #AFEEEE */
+    color: rgba(175, 238, 238, 1);
+}
+
+
+.text_pale_brown {
+    /* Pale Brown */
+    /* color: #987654 */
+    color: rgba(152, 118, 84, 1);
+}
+
+
+.text_pale_carmine {
+    /* Pale Carmine */
+    /* color: #AF4035 */
+    color: rgba(175, 64, 53, 1);
+}
+
+
+.text_pale_cerulean {
+    /* Pale Cerulean */
+    /* color: #9BC4E2 */
+    color: rgba(155, 196, 226, 1);
+}
+
+
+.text_pale_chestnut {
+    /* Pale Chestnut */
+    /* color: #DDADAF */
+    color: rgba(221, 173, 175, 1);
+}
+
+
+.text_pale_copper {
+    /* Pale Copper */
+    /* color: #DA8A67 */
+    color: rgba(218, 138, 103, 1);
+}
+
+
+.text_pale_cornflower_blue {
+    /* Pale Cornflower Blue */
+    /* color: #ABCDEF */
+    color: rgba(171, 205, 239, 1);
+}
+
+
+.text_pale_gold {
+    /* Pale Gold */
+    /* color: #E6BE8A */
+    color: rgba(230, 190, 138, 1);
+}
+
+
+.text_pale_goldenrod {
+    /* Pale Goldenrod */
+    /* color: #EEE8AA */
+    color: rgba(238, 232, 170, 1);
+}
+
+
+.text_pale_green {
+    /* Pale Green */
+    /* color: #98FB98 */
+    color: rgba(152, 251, 152, 1);
+}
+
+
+.text_pale_lavender {
+    /* Pale Lavender */
+    /* color: #DCD0FF */
+    color: rgba(220, 208, 255, 1);
+}
+
+
+.text_pale_magenta {
+    /* Pale Magenta */
+    /* color: #F984E5 */
+    color: rgba(249, 132, 229, 1);
+}
+
+
+.text_pale_pink {
+    /* Pale Pink */
+    /* color: #FADADD */
+    color: rgba(250, 218, 221, 1);
+}
+
+
+.text_pale_plum {
+    /* Pale Plum */
+    /* color: #DDA0DD */
+    color: rgba(221, 160, 221, 1);
+}
+
+
+.text_pale_red_violet {
+    /* Pale Red-Violet */
+    /* color: #DB7093 */
+    color: rgba(219, 112, 147, 1);
+}
+
+
+.text_pale_robin_egg_blue {
+    /* Pale Robin Egg Blue */
+    /* color: #96DED1 */
+    color: rgba(150, 222, 209, 1);
+}
+
+
+.text_pale_silver {
+    /* Pale Silver */
+    /* color: #C9C0BB */
+    color: rgba(201, 192, 187, 1);
+}
+
+
+.text_pale_spring_bud {
+    /* Pale Spring Bud */
+    /* color: #ECEBBD */
+    color: rgba(236, 235, 189, 1);
+}
+
+
+.text_pale_taupe {
+    /* Pale Taupe */
+    /* color: #BC987E */
+    color: rgba(188, 152, 126, 1);
+}
+
+
+.text_pale_violet_red {
+    /* Pale Violet-Red */
+    /* color: #DB7093 */
+    color: rgba(219, 112, 147, 1);
+}
+
+
+.text_pansy_purple {
+    /* Pansy Purple */
+    /* color: #78184A */
+    color: rgba(120, 24, 74, 1);
+}
+
+
+.text_papaya_whip {
+    /* Papaya Whip */
+    /* color: #FFEFD5 */
+    color: rgba(255, 239, 213, 1);
+}
+
+
+.text_paris_green {
+    /* Paris Green */
+    /* color: #50C878 */
+    color: rgba(80, 200, 120, 1);
+}
+
+
+.text_pastel_blue {
+    /* Pastel Blue */
+    /* color: #AEC6CF */
+    color: rgba(174, 198, 207, 1);
+}
+
+
+.text_pastel_brown {
+    /* Pastel Brown */
+    /* color: #836953 */
+    color: rgba(131, 105, 83, 1);
+}
+
+
+.text_pastel_gray {
+    /* Pastel Gray */
+    /* color: #CFCFC4 */
+    color: rgba(207, 207, 196, 1);
+}
+
+
+.text_pastel_green {
+    /* Pastel Green */
+    /* color: #77DD77 */
+    color: rgba(119, 221, 119, 1);
+}
+
+
+.text_pastel_magenta {
+    /* Pastel Magenta */
+    /* color: #F49AC2 */
+    color: rgba(244, 154, 194, 1);
+}
+
+
+.text_pastel_orange {
+    /* Pastel Orange */
+    /* color: #FFB347 */
+    color: rgba(255, 179, 71, 1);
+}
+
+
+.text_pastel_pink {
+    /* Pastel Pink */
+    /* color: #DEA5A4 */
+    color: rgba(222, 165, 164, 1);
+}
+
+
+.text_pastel_purple {
+    /* Pastel Purple */
+    /* color: #B39EB5 */
+    color: rgba(179, 158, 181, 1);
+}
+
+
+.text_pastel_red {
+    /* Pastel Red */
+    /* color: #FF6961 */
+    color: rgba(255, 105, 97, 1);
+}
+
+
+.text_pastel_violet {
+    /* Pastel Violet */
+    /* color: #CB99C9 */
+    color: rgba(203, 153, 201, 1);
+}
+
+
+.text_pastel_yellow {
+    /* Pastel Yellow */
+    /* color: #FDFD96 */
+    color: rgba(253, 253, 150, 1);
+}
+
+
+.text_patriarch {
+    /* Patriarch */
+    /* color: #800080 */
+    color: rgba(128, 0, 128, 1);
+}
+
+
+.text_payne_s_grey {
+    /* Payne'S Grey */
+    /* color: #536878 */
+    color: rgba(83, 104, 120, 1);
+}
+
+
+.text_peach {
+    /* Peach */
+    /* color: #FFE5B4 */
+    color: rgba(255, 229, 180, 1);
+}
+
+
+.text_peach_crayola {
+    /* Peach (Crayola) */
+    /* color: #FFCBA4 */
+    color: rgba(255, 203, 164, 1);
+}
+
+
+.text_peach_orange {
+    /* Peach-Orange */
+    /* color: #FFCC99 */
+    color: rgba(255, 204, 153, 1);
+}
+
+
+.text_peach_puff {
+    /* Peach Puff */
+    /* color: #FFDAB9 */
+    color: rgba(255, 218, 185, 1);
+}
+
+
+.text_peach_yellow {
+    /* Peach-Yellow */
+    /* color: #FADFAD */
+    color: rgba(250, 223, 173, 1);
+}
+
+
+.text_pear {
+    /* Pear */
+    /* color: #D1E231 */
+    color: rgba(209, 226, 49, 1);
+}
+
+
+.text_pearl {
+    /* Pearl */
+    /* color: #EAE0C8 */
+    color: rgba(234, 224, 200, 1);
+}
+
+
+.text_pearl_aqua {
+    /* Pearl Aqua */
+    /* color: #88D8C0 */
+    color: rgba(136, 216, 192, 1);
+}
+
+
+.text_pearly_purple {
+    /* Pearly Purple */
+    /* color: #B768A2 */
+    color: rgba(183, 104, 162, 1);
+}
+
+
+.text_peridot {
+    /* Peridot */
+    /* color: #E6E200 */
+    color: rgba(230, 226, 0, 1);
+}
+
+
+.text_periwinkle {
+    /* Periwinkle */
+    /* color: #CCCCFF */
+    color: rgba(204, 204, 255, 1);
+}
+
+
+.text_persian_blue {
+    /* Persian Blue */
+    /* color: #1C39BB */
+    color: rgba(28, 57, 187, 1);
+}
+
+
+.text_persian_green {
+    /* Persian Green */
+    /* color: #00A693 */
+    color: rgba(0, 166, 147, 1);
+}
+
+
+.text_persian_indigo {
+    /* Persian Indigo */
+    /* color: #32127A */
+    color: rgba(50, 18, 122, 1);
+}
+
+
+.text_persian_orange {
+    /* Persian Orange */
+    /* color: #D99058 */
+    color: rgba(217, 144, 88, 1);
+}
+
+
+.text_persian_pink {
+    /* Persian Pink */
+    /* color: #F77FBE */
+    color: rgba(247, 127, 190, 1);
+}
+
+
+.text_persian_plum {
+    /* Persian Plum */
+    /* color: #701C1C */
+    color: rgba(112, 28, 28, 1);
+}
+
+
+.text_persian_red {
+    /* Persian Red */
+    /* color: #CC3333 */
+    color: rgba(204, 51, 51, 1);
+}
+
+
+.text_persian_rose {
+    /* Persian Rose */
+    /* color: #FE28A2 */
+    color: rgba(254, 40, 162, 1);
+}
+
+
+.text_persimmon {
+    /* Persimmon */
+    /* color: #EC5800 */
+    color: rgba(236, 88, 0, 1);
+}
+
+
+.text_peru {
+    /* Peru */
+    /* color: #CD853F */
+    color: rgba(205, 133, 63, 1);
+}
+
+
+.text_phlox {
+    /* Phlox */
+    /* color: #DF00FF */
+    color: rgba(223, 0, 255, 1);
+}
+
+
+.text_phthalo_blue {
+    /* Phthalo Blue */
+    /* color: #000F89 */
+    color: rgba(0, 15, 137, 1);
+}
+
+
+.text_phthalo_green {
+    /* Phthalo Green */
+    /* color: #123524 */
+    color: rgba(18, 53, 36, 1);
+}
+
+
+.text_piggy_pink {
+    /* Piggy Pink */
+    /* color: #FDDDE6 */
+    color: rgba(253, 221, 230, 1);
+}
+
+
+.text_pine_green {
+    /* Pine Green */
+    /* color: #01796F */
+    color: rgba(1, 121, 111, 1);
+}
+
+
+.text_pink {
+    /* Pink */
+    /* color: #FFC0CB */
+    color: rgba(255, 192, 203, 1);
+}
+
+
+.text_pink_lace {
+    /* Pink Lace */
+    /* color: #FFDDF4 */
+    color: rgba(255, 221, 244, 1);
+}
+
+
+.text_pink_orange {
+    /* Pink-Orange */
+    /* color: #FF9966 */
+    color: rgba(255, 153, 102, 1);
+}
+
+
+.text_pink_pearl {
+    /* Pink Pearl */
+    /* color: #E7ACCF */
+    color: rgba(231, 172, 207, 1);
+}
+
+
+.text_pink_sherbet {
+    /* Pink Sherbet */
+    /* color: #F78FA7 */
+    color: rgba(247, 143, 167, 1);
+}
+
+
+.text_pistachio {
+    /* Pistachio */
+    /* color: #93C572 */
+    color: rgba(147, 197, 114, 1);
+}
+
+
+.text_platinum {
+    /* Platinum */
+    /* color: #E5E4E2 */
+    color: rgba(229, 228, 226, 1);
+}
+
+
+.text_plum_traditional {
+    /* Plum (Traditional) */
+    /* color: #8E4585 */
+    color: rgba(142, 69, 133, 1);
+}
+
+
+.text_plum_web {
+    /* Plum (Web) */
+    /* color: #DDA0DD */
+    color: rgba(221, 160, 221, 1);
+}
+
+
+.text_portland_orange {
+    /* Portland Orange */
+    /* color: #FF5A36 */
+    color: rgba(255, 90, 54, 1);
+}
+
+
+.text_powder_blue_web {
+    /* Powder Blue (Web) */
+    /* color: #B0E0E6 */
+    color: rgba(176, 224, 230, 1);
+}
+
+
+.text_princeton_orange {
+    /* Princeton Orange */
+    /* color: #FF8F00 */
+    color: rgba(255, 143, 0, 1);
+}
+
+
+.text_prune {
+    /* Prune */
+    /* color: #701C1C */
+    color: rgba(112, 28, 28, 1);
+}
+
+
+.text_prussian_blue {
+    /* Prussian Blue */
+    /* color: #003153 */
+    color: rgba(0, 49, 83, 1);
+}
+
+
+.text_psychedelic_purple {
+    /* Psychedelic Purple */
+    /* color: #DF00FF */
+    color: rgba(223, 0, 255, 1);
+}
+
+
+.text_puce {
+    /* Puce */
+    /* color: #CC8899 */
+    color: rgba(204, 136, 153, 1);
+}
+
+
+.text_pumpkin {
+    /* Pumpkin */
+    /* color: #FF7518 */
+    color: rgba(255, 117, 24, 1);
+}
+
+
+.text_purple_heart {
+    /* Purple Heart */
+    /* color: #69359C */
+    color: rgba(105, 53, 156, 1);
+}
+
+
+.text_purple_html_css {
+    /* Purple (Html/Css) */
+    /* color: #800080 */
+    color: rgba(128, 0, 128, 1);
+}
+
+
+.text_purple_mountain_majesty {
+    /* Purple Mountain Majesty */
+    /* color: #9678B6 */
+    color: rgba(150, 120, 182, 1);
+}
+
+
+.text_purple_munsell {
+    /* Purple (Munsell) */
+    /* color: #9F00C5 */
+    color: rgba(159, 0, 197, 1);
+}
+
+
+.text_purple_pizzazz {
+    /* Purple Pizzazz */
+    /* color: #FE4EDA */
+    color: rgba(254, 78, 218, 1);
+}
+
+
+.text_purple_taupe {
+    /* Purple Taupe */
+    /* color: #50404D */
+    color: rgba(80, 64, 77, 1);
+}
+
+
+.text_purple_x11 {
+    /* Purple (X11) */
+    /* color: #A020F0 */
+    color: rgba(160, 32, 240, 1);
+}
+
+
+.text_quartz {
+    /* Quartz */
+    /* color: #51484F */
+    color: rgba(81, 72, 79, 1);
+}
+
+
+.text_rackley {
+    /* Rackley */
+    /* color: #5D8AA8 */
+    color: rgba(93, 138, 168, 1);
+}
+
+
+.text_radical_red {
+    /* Radical Red */
+    /* color: #FF355E */
+    color: rgba(255, 53, 94, 1);
+}
+
+
+.text_rajah {
+    /* Rajah */
+    /* color: #FBAB60 */
+    color: rgba(251, 171, 96, 1);
+}
+
+
+.text_raspberry {
+    /* Raspberry */
+    /* color: #E30B5D */
+    color: rgba(227, 11, 93, 1);
+}
+
+
+.text_raspberry_glace {
+    /* Raspberry Glace */
+    /* color: #915F6D */
+    color: rgba(145, 95, 109, 1);
+}
+
+
+.text_raspberry_pink {
+    /* Raspberry Pink */
+    /* color: #E25098 */
+    color: rgba(226, 80, 152, 1);
+}
+
+
+.text_raspberry_rose {
+    /* Raspberry Rose */
+    /* color: #B3446C */
+    color: rgba(179, 68, 108, 1);
+}
+
+
+.text_raw_umber {
+    /* Raw Umber */
+    /* color: #826644 */
+    color: rgba(130, 102, 68, 1);
+}
+
+
+.text_razzle_dazzle_rose {
+    /* Razzle Dazzle Rose */
+    /* color: #FF33CC */
+    color: rgba(255, 51, 204, 1);
+}
+
+
+.text_razzmatazz {
+    /* Razzmatazz */
+    /* color: #E3256B */
+    color: rgba(227, 37, 107, 1);
+}
+
+
+.text_red {
+    /* Red */
+    /* color: #FF0000 */
+    color: rgba(255, 0, 0, 1);
+}
+
+
+.text_red_brown {
+    /* Red-Brown */
+    /* color: #A52A2A */
+    color: rgba(165, 42, 42, 1);
+}
+
+
+.text_red_devil {
+    /* Red Devil */
+    /* color: #860111 */
+    color: rgba(134, 1, 17, 1);
+}
+
+
+.text_red_munsell {
+    /* Red (Munsell) */
+    /* color: #F2003C */
+    color: rgba(242, 0, 60, 1);
+}
+
+
+.text_red_ncs {
+    /* Red (Ncs) */
+    /* color: #C40233 */
+    color: rgba(196, 2, 51, 1);
+}
+
+
+.text_red_orange {
+    /* Red-Orange */
+    /* color: #FF5349 */
+    color: rgba(255, 83, 73, 1);
+}
+
+
+.text_red_pigment {
+    /* Red (Pigment) */
+    /* color: #ED1C24 */
+    color: rgba(237, 28, 36, 1);
+}
+
+
+.text_red_ryb {
+    /* Red (Ryb) */
+    /* color: #FE2712 */
+    color: rgba(254, 39, 18, 1);
+}
+
+
+.text_red_violet {
+    /* Red-Violet */
+    /* color: #C71585 */
+    color: rgba(199, 21, 133, 1);
+}
+
+
+.text_redwood {
+    /* Redwood */
+    /* color: #AB4E52 */
+    color: rgba(171, 78, 82, 1);
+}
+
+
+.text_regalia {
+    /* Regalia */
+    /* color: #522D80 */
+    color: rgba(82, 45, 128, 1);
+}
+
+
+.text_resolution_blue {
+    /* Resolution Blue */
+    /* color: #002387 */
+    color: rgba(0, 35, 135, 1);
+}
+
+
+.text_rich_black {
+    /* Rich Black */
+    /* color: #004040 */
+    color: rgba(0, 64, 64, 1);
+}
+
+
+.text_rich_brilliant_lavender {
+    /* Rich Brilliant Lavender */
+    /* color: #F1A7FE */
+    color: rgba(241, 167, 254, 1);
+}
+
+
+.text_rich_carmine {
+    /* Rich Carmine */
+    /* color: #D70040 */
+    color: rgba(215, 0, 64, 1);
+}
+
+
+.text_rich_electric_blue {
+    /* Rich Electric Blue */
+    /* color: #0892D0 */
+    color: rgba(8, 146, 208, 1);
+}
+
+
+.text_rich_lavender {
+    /* Rich Lavender */
+    /* color: #A76BCF */
+    color: rgba(167, 107, 207, 1);
+}
+
+
+.text_rich_lilac {
+    /* Rich Lilac */
+    /* color: #B666D2 */
+    color: rgba(182, 102, 210, 1);
+}
+
+
+.text_rich_maroon {
+    /* Rich Maroon */
+    /* color: #B03060 */
+    color: rgba(176, 48, 96, 1);
+}
+
+
+.text_rifle_green {
+    /* Rifle Green */
+    /* color: #414833 */
+    color: rgba(65, 72, 51, 1);
+}
+
+
+.text_robin_egg_blue {
+    /* Robin Egg Blue */
+    /* color: #00CCCC */
+    color: rgba(0, 204, 204, 1);
+}
+
+
+.text_rose {
+    /* Rose */
+    /* color: #FF007F */
+    color: rgba(255, 0, 127, 1);
+}
+
+
+.text_rose_bonbon {
+    /* Rose Bonbon */
+    /* color: #F9429E */
+    color: rgba(249, 66, 158, 1);
+}
+
+
+.text_rose_ebony {
+    /* Rose Ebony */
+    /* color: #674846 */
+    color: rgba(103, 72, 70, 1);
+}
+
+
+.text_rose_gold {
+    /* Rose Gold */
+    /* color: #B76E79 */
+    color: rgba(183, 110, 121, 1);
+}
+
+
+.text_rose_madder {
+    /* Rose Madder */
+    /* color: #E32636 */
+    color: rgba(227, 38, 54, 1);
+}
+
+
+.text_rose_pink {
+    /* Rose Pink */
+    /* color: #FF66CC */
+    color: rgba(255, 102, 204, 1);
+}
+
+
+.text_rose_quartz {
+    /* Rose Quartz */
+    /* color: #AA98A9 */
+    color: rgba(170, 152, 169, 1);
+}
+
+
+.text_rose_taupe {
+    /* Rose Taupe */
+    /* color: #905D5D */
+    color: rgba(144, 93, 93, 1);
+}
+
+
+.text_rose_vale {
+    /* Rose Vale */
+    /* color: #AB4E52 */
+    color: rgba(171, 78, 82, 1);
+}
+
+
+.text_rosewood {
+    /* Rosewood */
+    /* color: #65000B */
+    color: rgba(101, 0, 11, 1);
+}
+
+
+.text_rosso_corsa {
+    /* Rosso Corsa */
+    /* color: #D40000 */
+    color: rgba(212, 0, 0, 1);
+}
+
+
+.text_rosy_brown {
+    /* Rosy Brown */
+    /* color: #BC8F8F */
+    color: rgba(188, 143, 143, 1);
+}
+
+
+.text_royal_azure {
+    /* Royal Azure */
+    /* color: #0038A8 */
+    color: rgba(0, 56, 168, 1);
+}
+
+
+.text_royal_blue_traditional {
+    /* Royal Blue (Traditional) */
+    /* color: #002366 */
+    color: rgba(0, 35, 102, 1);
+}
+
+
+.text_royal_blue_web {
+    /* Royal Blue (Web) */
+    /* color: #4169E1 */
+    color: rgba(65, 105, 225, 1);
+}
+
+
+.text_royal_fuchsia {
+    /* Royal Fuchsia */
+    /* color: #CA2C92 */
+    color: rgba(202, 44, 146, 1);
+}
+
+
+.text_royal_purple {
+    /* Royal Purple */
+    /* color: #7851A9 */
+    color: rgba(120, 81, 169, 1);
+}
+
+
+.text_royal_yellow {
+    /* Royal Yellow */
+    /* color: #FADA5E */
+    color: rgba(250, 218, 94, 1);
+}
+
+
+.text_rubine_red {
+    /* Rubine Red */
+    /* color: #D10056 */
+    color: rgba(209, 0, 86, 1);
+}
+
+
+.text_ruby {
+    /* Ruby */
+    /* color: #E0115F */
+    color: rgba(224, 17, 95, 1);
+}
+
+
+.text_ruby_red {
+    /* Ruby Red */
+    /* color: #9B111E */
+    color: rgba(155, 17, 30, 1);
+}
+
+
+.text_ruddy {
+    /* Ruddy */
+    /* color: #FF0028 */
+    color: rgba(255, 0, 40, 1);
+}
+
+
+.text_ruddy_brown {
+    /* Ruddy Brown */
+    /* color: #BB6528 */
+    color: rgba(187, 101, 40, 1);
+}
+
+
+.text_ruddy_pink {
+    /* Ruddy Pink */
+    /* color: #E18E96 */
+    color: rgba(225, 142, 150, 1);
+}
+
+
+.text_rufous {
+    /* Rufous */
+    /* color: #A81C07 */
+    color: rgba(168, 28, 7, 1);
+}
+
+
+.text_russet {
+    /* Russet */
+    /* color: #80461B */
+    color: rgba(128, 70, 27, 1);
+}
+
+
+.text_rust {
+    /* Rust */
+    /* color: #B7410E */
+    color: rgba(183, 65, 14, 1);
+}
+
+
+.text_rusty_red {
+    /* Rusty Red */
+    /* color: #DA2C43 */
+    color: rgba(218, 44, 67, 1);
+}
+
+
+.text_sacramento_state_green {
+    /* Sacramento State Green */
+    /* color: #00563F */
+    color: rgba(0, 86, 63, 1);
+}
+
+
+.text_saddle_brown {
+    /* Saddle Brown */
+    /* color: #8B4513 */
+    color: rgba(139, 69, 19, 1);
+}
+
+
+.text_safety_orange_blaze_orange {
+    /* Safety Orange (Blaze Orange) */
+    /* color: #FF6700 */
+    color: rgba(255, 103, 0, 1);
+}
+
+
+.text_saffron {
+    /* Saffron */
+    /* color: #F4C430 */
+    color: rgba(244, 196, 48, 1);
+}
+
+
+.text_salmon {
+    /* Salmon */
+    /* color: #FF8C69 */
+    color: rgba(255, 140, 105, 1);
+}
+
+
+.text_salmon_pink {
+    /* Salmon Pink */
+    /* color: #FF91A4 */
+    color: rgba(255, 145, 164, 1);
+}
+
+
+.text_sand {
+    /* Sand */
+    /* color: #C2B280 */
+    color: rgba(194, 178, 128, 1);
+}
+
+
+.text_sand_dune {
+    /* Sand Dune */
+    /* color: #967117 */
+    color: rgba(150, 113, 23, 1);
+}
+
+
+.text_sandstorm {
+    /* Sandstorm */
+    /* color: #ECD540 */
+    color: rgba(236, 213, 64, 1);
+}
+
+
+.text_sandy_brown {
+    /* Sandy Brown */
+    /* color: #F4A460 */
+    color: rgba(244, 164, 96, 1);
+}
+
+
+.text_sandy_taupe {
+    /* Sandy Taupe */
+    /* color: #967117 */
+    color: rgba(150, 113, 23, 1);
+}
+
+
+.text_sangria {
+    /* Sangria */
+    /* color: #92000A */
+    color: rgba(146, 0, 10, 1);
+}
+
+
+.text_sap_green {
+    /* Sap Green */
+    /* color: #507D2A */
+    color: rgba(80, 125, 42, 1);
+}
+
+
+.text_sapphire {
+    /* Sapphire */
+    /* color: #0F52BA */
+    color: rgba(15, 82, 186, 1);
+}
+
+
+.text_sapphire_blue {
+    /* Sapphire Blue */
+    /* color: #0067A5 */
+    color: rgba(0, 103, 165, 1);
+}
+
+
+.text_satin_sheen_gold {
+    /* Satin Sheen Gold */
+    /* color: #CBA135 */
+    color: rgba(203, 161, 53, 1);
+}
+
+
+.text_scarlet {
+    /* Scarlet */
+    /* color: #FF2400 */
+    color: rgba(255, 36, 0, 1);
+}
+
+
+.text_scarlet_crayola {
+    /* Scarlet (Crayola) */
+    /* color: #FD0E35 */
+    color: rgba(253, 14, 53, 1);
+}
+
+
+.text_school_bus_yellow {
+    /* School Bus Yellow */
+    /* color: #FFD800 */
+    color: rgba(255, 216, 0, 1);
+}
+
+
+.text_screamin_green {
+    /* Screamin' Green */
+    /* color: #76FF7A */
+    color: rgba(118, 255, 122, 1);
+}
+
+
+.text_sea_blue {
+    /* Sea Blue */
+    /* color: #006994 */
+    color: rgba(0, 105, 148, 1);
+}
+
+
+.text_sea_green {
+    /* Sea Green */
+    /* color: #2E8B57 */
+    color: rgba(46, 139, 87, 1);
+}
+
+
+.text_seal_brown {
+    /* Seal Brown */
+    /* color: #321414 */
+    color: rgba(50, 20, 20, 1);
+}
+
+
+.text_seashell {
+    /* Seashell */
+    /* color: #FFF5EE */
+    color: rgba(255, 245, 238, 1);
+}
+
+
+.text_selective_yellow {
+    /* Selective Yellow */
+    /* color: #FFBA00 */
+    color: rgba(255, 186, 0, 1);
+}
+
+
+.text_sepia {
+    /* Sepia */
+    /* color: #704214 */
+    color: rgba(112, 66, 20, 1);
+}
+
+
+.text_shadow {
+    /* Shadow */
+    /* color: #8A795D */
+    color: rgba(138, 121, 93, 1);
+}
+
+
+.text_shamrock_green {
+    /* Shamrock Green */
+    /* color: #009E60 */
+    color: rgba(0, 158, 96, 1);
+}
+
+
+.text_shocking_pink {
+    /* Shocking Pink */
+    /* color: #FC0FC0 */
+    color: rgba(252, 15, 192, 1);
+}
+
+
+.text_shocking_pink_crayola {
+    /* Shocking Pink (Crayola) */
+    /* color: #FF6FFF */
+    color: rgba(255, 111, 255, 1);
+}
+
+
+.text_sienna {
+    /* Sienna */
+    /* color: #882D17 */
+    color: rgba(136, 45, 23, 1);
+}
+
+
+.text_silver {
+    /* Silver */
+    /* color: #C0C0C0 */
+    color: rgba(192, 192, 192, 1);
+}
+
+
+.text_sinopia {
+    /* Sinopia */
+    /* color: #CB410B */
+    color: rgba(203, 65, 11, 1);
+}
+
+
+.text_skobeloff {
+    /* Skobeloff */
+    /* color: #007474 */
+    color: rgba(0, 116, 116, 1);
+}
+
+
+.text_sky_blue {
+    /* Sky Blue */
+    /* color: #87CEEB */
+    color: rgba(135, 206, 235, 1);
+}
+
+
+.text_sky_magenta {
+    /* Sky Magenta */
+    /* color: #CF71AF */
+    color: rgba(207, 113, 175, 1);
+}
+
+
+.text_slate_blue {
+    /* Slate Blue */
+    /* color: #6A5ACD */
+    color: rgba(106, 90, 205, 1);
+}
+
+
+.text_slate_gray {
+    /* Slate Gray */
+    /* color: #708090 */
+    color: rgba(112, 128, 144, 1);
+}
+
+
+.text_smalt_dark_powder_blue {
+    /* Smalt (Dark Powder Blue) */
+    /* color: #003399 */
+    color: rgba(0, 51, 153, 1);
+}
+
+
+.text_smokey_topaz {
+    /* Smokey Topaz */
+    /* color: #933D41 */
+    color: rgba(147, 61, 65, 1);
+}
+
+
+.text_smoky_black {
+    /* Smoky Black */
+    /* color: #100C08 */
+    color: rgba(16, 12, 8, 1);
+}
+
+
+.text_snow {
+    /* Snow */
+    /* color: #FFFAFA */
+    color: rgba(255, 250, 250, 1);
+}
+
+
+.text_spiro_disco_ball {
+    /* Spiro Disco Ball */
+    /* color: #0FC0FC */
+    color: rgba(15, 192, 252, 1);
+}
+
+
+.text_spring_bud {
+    /* Spring Bud */
+    /* color: #A7FC00 */
+    color: rgba(167, 252, 0, 1);
+}
+
+
+.text_spring_green {
+    /* Spring Green */
+    /* color: #00FF7F */
+    color: rgba(0, 255, 127, 1);
+}
+
+
+.text_st_patrick_s_blue {
+    /* St. Patrick'S Blue */
+    /* color: #23297A */
+    color: rgba(35, 41, 122, 1);
+}
+
+
+.text_steel_blue {
+    /* Steel Blue */
+    /* color: #4682B4 */
+    color: rgba(70, 130, 180, 1);
+}
+
+
+.text_stil_de_grain_yellow {
+    /* Stil De Grain Yellow */
+    /* color: #FADA5E */
+    color: rgba(250, 218, 94, 1);
+}
+
+
+.text_stizza {
+    /* Stizza */
+    /* color: #990000 */
+    color: rgba(153, 0, 0, 1);
+}
+
+
+.text_stormcloud {
+    /* Stormcloud */
+    /* color: #4F666A */
+    color: rgba(79, 102, 106, 1);
+}
+
+
+.text_straw {
+    /* Straw */
+    /* color: #E4D96F */
+    color: rgba(228, 217, 111, 1);
+}
+
+
+.text_sunglow {
+    /* Sunglow */
+    /* color: #FFCC33 */
+    color: rgba(255, 204, 51, 1);
+}
+
+
+.text_sunset {
+    /* Sunset */
+    /* color: #FAD6A5 */
+    color: rgba(250, 214, 165, 1);
+}
+
+
+.text_tan {
+    /* Tan */
+    /* color: #D2B48C */
+    color: rgba(210, 180, 140, 1);
+}
+
+
+.text_tangelo {
+    /* Tangelo */
+    /* color: #F94D00 */
+    color: rgba(249, 77, 0, 1);
+}
+
+
+.text_tangerine {
+    /* Tangerine */
+    /* color: #F28500 */
+    color: rgba(242, 133, 0, 1);
+}
+
+
+.text_tangerine_yellow {
+    /* Tangerine Yellow */
+    /* color: #FFCC00 */
+    color: rgba(255, 204, 0, 1);
+}
+
+
+.text_tango_pink {
+    /* Tango Pink */
+    /* color: #E4717A */
+    color: rgba(228, 113, 122, 1);
+}
+
+
+.text_taupe {
+    /* Taupe */
+    /* color: #483C32 */
+    color: rgba(72, 60, 50, 1);
+}
+
+
+.text_taupe_gray {
+    /* Taupe Gray */
+    /* color: #8B8589 */
+    color: rgba(139, 133, 137, 1);
+}
+
+
+.text_tea_green {
+    /* Tea Green */
+    /* color: #D0F0C0 */
+    color: rgba(208, 240, 192, 1);
+}
+
+
+.text_tea_rose_orange {
+    /* Tea Rose (Orange) */
+    /* color: #F88379 */
+    color: rgba(248, 131, 121, 1);
+}
+
+
+.text_tea_rose_rose {
+    /* Tea Rose (Rose) */
+    /* color: #F4C2C2 */
+    color: rgba(244, 194, 194, 1);
+}
+
+
+.text_teal {
+    /* Teal */
+    /* color: #008080 */
+    color: rgba(0, 128, 128, 1);
+}
+
+
+.text_teal_blue {
+    /* Teal Blue */
+    /* color: #367588 */
+    color: rgba(54, 117, 136, 1);
+}
+
+
+.text_teal_green {
+    /* Teal Green */
+    /* color: #00827F */
+    color: rgba(0, 130, 127, 1);
+}
+
+
+.text_telemagenta {
+    /* Telemagenta */
+    /* color: #CF3476 */
+    color: rgba(207, 52, 118, 1);
+}
+
+
+.text_tenn_tawny {
+    /* Tenné (Tawny) */
+    /* color: #CD5700 */
+    color: rgba(205, 87, 0, 1);
+}
+
+
+.text_terra_cotta {
+    /* Terra Cotta */
+    /* color: #E2725B */
+    color: rgba(226, 114, 91, 1);
+}
+
+
+.text_thistle {
+    /* Thistle */
+    /* color: #D8BFD8 */
+    color: rgba(216, 191, 216, 1);
+}
+
+
+.text_thulian_pink {
+    /* Thulian Pink */
+    /* color: #DE6FA1 */
+    color: rgba(222, 111, 161, 1);
+}
+
+
+.text_tickle_me_pink {
+    /* Tickle Me Pink */
+    /* color: #FC89AC */
+    color: rgba(252, 137, 172, 1);
+}
+
+
+.text_tiffany_blue {
+    /* Tiffany Blue */
+    /* color: #0ABAB5 */
+    color: rgba(10, 186, 181, 1);
+}
+
+
+.text_tiger_s_eye {
+    /* Tiger'S Eye */
+    /* color: #E08D3C */
+    color: rgba(224, 141, 60, 1);
+}
+
+
+.text_timberwolf {
+    /* Timberwolf */
+    /* color: #DBD7D2 */
+    color: rgba(219, 215, 210, 1);
+}
+
+
+.text_titanium_yellow {
+    /* Titanium Yellow */
+    /* color: #EEE600 */
+    color: rgba(238, 230, 0, 1);
+}
+
+
+.text_tomato {
+    /* Tomato */
+    /* color: #FF6347 */
+    color: rgba(255, 99, 71, 1);
+}
+
+
+.text_toolbox {
+    /* Toolbox */
+    /* color: #746CC0 */
+    color: rgba(116, 108, 192, 1);
+}
+
+
+.text_topaz {
+    /* Topaz */
+    /* color: #FFC87C */
+    color: rgba(255, 200, 124, 1);
+}
+
+
+.text_tractor_red {
+    /* Tractor Red */
+    /* color: #FD0E35 */
+    color: rgba(253, 14, 53, 1);
+}
+
+
+.text_trolley_grey {
+    /* Trolley Grey */
+    /* color: #808080 */
+    color: rgba(128, 128, 128, 1);
+}
+
+
+.text_tropical_rain_forest {
+    /* Tropical Rain Forest */
+    /* color: #00755E */
+    color: rgba(0, 117, 94, 1);
+}
+
+
+.text_true_blue {
+    /* True Blue */
+    /* color: #0073CF */
+    color: rgba(0, 115, 207, 1);
+}
+
+
+.text_tufts_blue {
+    /* Tufts Blue */
+    /* color: #417DC1 */
+    color: rgba(65, 125, 193, 1);
+}
+
+
+.text_tumbleweed {
+    /* Tumbleweed */
+    /* color: #DEAA88 */
+    color: rgba(222, 170, 136, 1);
+}
+
+
+.text_turkish_rose {
+    /* Turkish Rose */
+    /* color: #B57281 */
+    color: rgba(181, 114, 129, 1);
+}
+
+
+.text_turquoise {
+    /* Turquoise */
+    /* color: #30D5C8 */
+    color: rgba(48, 213, 200, 1);
+}
+
+
+.text_turquoise_blue {
+    /* Turquoise Blue */
+    /* color: #00FFEF */
+    color: rgba(0, 255, 239, 1);
+}
+
+
+.text_turquoise_green {
+    /* Turquoise Green */
+    /* color: #A0D6B4 */
+    color: rgba(160, 214, 180, 1);
+}
+
+
+.text_tuscan_red {
+    /* Tuscan Red */
+    /* color: #7C4848 */
+    color: rgba(124, 72, 72, 1);
+}
+
+
+.text_twilight_lavender {
+    /* Twilight Lavender */
+    /* color: #8A496B */
+    color: rgba(138, 73, 107, 1);
+}
+
+
+.text_tyrian_purple {
+    /* Tyrian Purple */
+    /* color: #66023C */
+    color: rgba(102, 2, 60, 1);
+}
+
+
+.text_ua_blue {
+    /* Ua Blue */
+    /* color: #0033AA */
+    color: rgba(0, 51, 170, 1);
+}
+
+
+.text_ua_red {
+    /* Ua Red */
+    /* color: #D9004C */
+    color: rgba(217, 0, 76, 1);
+}
+
+
+.text_ube {
+    /* Ube */
+    /* color: #8878C3 */
+    color: rgba(136, 120, 195, 1);
+}
+
+
+.text_ucla_blue {
+    /* Ucla Blue */
+    /* color: #536895 */
+    color: rgba(83, 104, 149, 1);
+}
+
+
+.text_ucla_gold {
+    /* Ucla Gold */
+    /* color: #FFB300 */
+    color: rgba(255, 179, 0, 1);
+}
+
+
+.text_ufo_green {
+    /* Ufo Green */
+    /* color: #3CD070 */
+    color: rgba(60, 208, 112, 1);
+}
+
+
+.text_ultra_pink {
+    /* Ultra Pink */
+    /* color: #FF6FFF */
+    color: rgba(255, 111, 255, 1);
+}
+
+
+.text_ultramarine {
+    /* Ultramarine */
+    /* color: #120A8F */
+    color: rgba(18, 10, 143, 1);
+}
+
+
+.text_ultramarine_blue {
+    /* Ultramarine Blue */
+    /* color: #4166F5 */
+    color: rgba(65, 102, 245, 1);
+}
+
+
+.text_umber {
+    /* Umber */
+    /* color: #635147 */
+    color: rgba(99, 81, 71, 1);
+}
+
+
+.text_unbleached_silk {
+    /* Unbleached Silk */
+    /* color: #FFDDCA */
+    color: rgba(255, 221, 202, 1);
+}
+
+
+.text_united_nations_blue {
+    /* United Nations Blue */
+    /* color: #5B92E5 */
+    color: rgba(91, 146, 229, 1);
+}
+
+
+.text_university_of_california_gold {
+    /* University Of California Gold */
+    /* color: #B78727 */
+    color: rgba(183, 135, 39, 1);
+}
+
+
+.text_unmellow_yellow {
+    /* Unmellow Yellow */
+    /* color: #FFFF66 */
+    color: rgba(255, 255, 102, 1);
+}
+
+
+.text_up_forest_green {
+    /* Up Forest Green */
+    /* color: #014421 */
+    color: rgba(1, 68, 33, 1);
+}
+
+
+.text_up_maroon {
+    /* Up Maroon */
+    /* color: #7B1113 */
+    color: rgba(123, 17, 19, 1);
+}
+
+
+.text_upsdell_red {
+    /* Upsdell Red */
+    /* color: #AE2029 */
+    color: rgba(174, 32, 41, 1);
+}
+
+
+.text_urobilin {
+    /* Urobilin */
+    /* color: #E1AD21 */
+    color: rgba(225, 173, 33, 1);
+}
+
+
+.text_usafa_blue {
+    /* Usafa Blue */
+    /* color: #004F98 */
+    color: rgba(0, 79, 152, 1);
+}
+
+
+.text_usc_cardinal {
+    /* Usc Cardinal */
+    /* color: #990000 */
+    color: rgba(153, 0, 0, 1);
+}
+
+
+.text_usc_gold {
+    /* Usc Gold */
+    /* color: #FFCC00 */
+    color: rgba(255, 204, 0, 1);
+}
+
+
+.text_utah_crimson {
+    /* Utah Crimson */
+    /* color: #D3003F */
+    color: rgba(211, 0, 63, 1);
+}
+
+
+.text_vanilla {
+    /* Vanilla */
+    /* color: #F3E5AB */
+    color: rgba(243, 229, 171, 1);
+}
+
+
+.text_vegas_gold {
+    /* Vegas Gold */
+    /* color: #C5B358 */
+    color: rgba(197, 179, 88, 1);
+}
+
+
+.text_venetian_red {
+    /* Venetian Red */
+    /* color: #C80815 */
+    color: rgba(200, 8, 21, 1);
+}
+
+
+.text_verdigris {
+    /* Verdigris */
+    /* color: #43B3AE */
+    color: rgba(67, 179, 174, 1);
+}
+
+
+.text_vermilion_cinnabar {
+    /* Vermilion (Cinnabar) */
+    /* color: #E34234 */
+    color: rgba(227, 66, 52, 1);
+}
+
+
+.text_vermilion_plochere {
+    /* Vermilion (Plochere) */
+    /* color: #D9603B */
+    color: rgba(217, 96, 59, 1);
+}
+
+
+.text_veronica {
+    /* Veronica */
+    /* color: #A020F0 */
+    color: rgba(160, 32, 240, 1);
+}
+
+
+.text_violet {
+    /* Violet */
+    /* color: #8F00FF */
+    color: rgba(143, 0, 255, 1);
+}
+
+
+.text_violet_blue {
+    /* Violet-Blue */
+    /* color: #324AB2 */
+    color: rgba(50, 74, 178, 1);
+}
+
+
+.text_violet_color_wheel {
+    /* Violet (Color Wheel) */
+    /* color: #7F00FF */
+    color: rgba(127, 0, 255, 1);
+}
+
+
+.text_violet_ryb {
+    /* Violet (Ryb) */
+    /* color: #8601AF */
+    color: rgba(134, 1, 175, 1);
+}
+
+
+.text_violet_web {
+    /* Violet (Web) */
+    /* color: #EE82EE */
+    color: rgba(238, 130, 238, 1);
+}
+
+
+.text_viridian {
+    /* Viridian */
+    /* color: #40826D */
+    color: rgba(64, 130, 109, 1);
+}
+
+
+.text_vivid_auburn {
+    /* Vivid Auburn */
+    /* color: #922724 */
+    color: rgba(146, 39, 36, 1);
+}
+
+
+.text_vivid_burgundy {
+    /* Vivid Burgundy */
+    /* color: #9F1D35 */
+    color: rgba(159, 29, 53, 1);
+}
+
+
+.text_vivid_cerise {
+    /* Vivid Cerise */
+    /* color: #DA1D81 */
+    color: rgba(218, 29, 129, 1);
+}
+
+
+.text_vivid_tangerine {
+    /* Vivid Tangerine */
+    /* color: #FFA089 */
+    color: rgba(255, 160, 137, 1);
+}
+
+
+.text_vivid_violet {
+    /* Vivid Violet */
+    /* color: #9F00FF */
+    color: rgba(159, 0, 255, 1);
+}
+
+
+.text_warm_black {
+    /* Warm Black */
+    /* color: #004242 */
+    color: rgba(0, 66, 66, 1);
+}
+
+
+.text_waterspout {
+    /* Waterspout */
+    /* color: #A4F4F9 */
+    color: rgba(164, 244, 249, 1);
+}
+
+
+.text_wenge {
+    /* Wenge */
+    /* color: #645452 */
+    color: rgba(100, 84, 82, 1);
+}
+
+
+.text_wheat {
+    /* Wheat */
+    /* color: #F5DEB3 */
+    color: rgba(245, 222, 179, 1);
+}
+
+
+.text_white {
+    /* White */
+    /* color: #FFFFFF */
+    color: rgba(255, 255, 255, 1);
+}
+
+
+.text_white_smoke {
+    /* White Smoke */
+    /* color: #F5F5F5 */
+    color: rgba(245, 245, 245, 1);
+}
+
+
+.text_wild_blue_yonder {
+    /* Wild Blue Yonder */
+    /* color: #A2ADD0 */
+    color: rgba(162, 173, 208, 1);
+}
+
+
+.text_wild_strawberry {
+    /* Wild Strawberry */
+    /* color: #FF43A4 */
+    color: rgba(255, 67, 164, 1);
+}
+
+
+.text_wild_watermelon {
+    /* Wild Watermelon */
+    /* color: #FC6C85 */
+    color: rgba(252, 108, 133, 1);
+}
+
+
+.text_wine {
+    /* Wine */
+    /* color: #722F37 */
+    color: rgba(114, 47, 55, 1);
+}
+
+
+.text_wine_dregs {
+    /* Wine Dregs */
+    /* color: #673147 */
+    color: rgba(103, 49, 71, 1);
+}
+
+
+.text_wisteria {
+    /* Wisteria */
+    /* color: #C9A0DC */
+    color: rgba(201, 160, 220, 1);
+}
+
+
+.text_wood_brown {
+    /* Wood Brown */
+    /* color: #C19A6B */
+    color: rgba(193, 154, 107, 1);
+}
+
+
+.text_xanadu {
+    /* Xanadu */
+    /* color: #738678 */
+    color: rgba(115, 134, 120, 1);
+}
+
+
+.text_yale_blue {
+    /* Yale Blue */
+    /* color: #0F4D92 */
+    color: rgba(15, 77, 146, 1);
+}
+
+
+.text_yellow {
+    /* Yellow */
+    /* color: #FFFF00 */
+    color: rgba(255, 255, 0, 1);
+}
+
+
+.text_yellow_green {
+    /* Yellow-Green */
+    /* color: #9ACD32 */
+    color: rgba(154, 205, 50, 1);
+}
+
+
+.text_yellow_munsell {
+    /* Yellow (Munsell) */
+    /* color: #EFCC00 */
+    color: rgba(239, 204, 0, 1);
+}
+
+
+.text_yellow_ncs {
+    /* Yellow (Ncs) */
+    /* color: #FFD300 */
+    color: rgba(255, 211, 0, 1);
+}
+
+
+.text_yellow_orange {
+    /* Yellow Orange */
+    /* color: #FFAE42 */
+    color: rgba(255, 174, 66, 1);
+}
+
+
+.text_yellow_process {
+    /* Yellow (Process) */
+    /* color: #FFEF00 */
+    color: rgba(255, 239, 0, 1);
+}
+
+
+.text_yellow_ryb {
+    /* Yellow (Ryb) */
+    /* color: #FEFE33 */
+    color: rgba(254, 254, 51, 1);
+}
+
+
+.text_zaffre {
+    /* Zaffre */
+    /* color: #0014A8 */
+    color: rgba(0, 20, 168, 1);
+}
+
+
+.text_zinnwaldite_brown {
+    /* Zinnwaldite Brown */
+    /* color: #2C1608 */
+    color: rgba(44, 22, 8, 1);
+}
+
